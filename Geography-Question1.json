@@ -1,6 +1,6 @@
 {
 "app":"Visual Quiz",
-"question":"This is the name of this waterfall?",
+"question":"What is the name of this waterfall?",
 "answers":[
 	"Iguazu Falls, Argentina and Brazil",
 	"Dettifoss, Northeast Iceland",
@@ -9,7 +9,7 @@
 	],
 "correctAnswer":3,
 "hints":[
-	"Located in USA and Canada Border"
+	"Located in USA Border"
 	],
 "earn":{
 	"hints":0,
