@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"This is National flag of which country??",
+"answers":[
+	"France",
+	"Laos",
+	"Slovenia",
+	"Russia"
+	],
+"correctAnswer":4,
+"hints":[
+	"Situated between two continents",
+	"Currency of this country is Ruble",
+	"Capital is Moscow"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	}
+}
