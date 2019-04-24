@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Whats is the name of this City?",
+"answers":[
+	"Toronto",
+	"Paris",
+	"Kuala Lumpur",
+	"Dubai"
+	],
+"correctAnswer":2,
+"hints":[
+	"Situated in Europe",
+	"Capital of France"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Paris is the capital and most populous city of France, with an area of 105 square kilometres (41 square miles). Paris is especially known for its museums and architectural landmarks: Louvre Museum, Eiffel Tower etc."
+}

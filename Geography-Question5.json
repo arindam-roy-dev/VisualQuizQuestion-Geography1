@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the age of Earth?",
+"answers":[
+	"About 4600 million years",
+	"About 460 million years",
+	"About 1200 million years",
+	"About 120 million years"
+	],
+"correctAnswer":1,
+"hints":[
+	"Situated at North-West of Canada",
+	"Capital is Juneau"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Alaska is the northernmost and westernmost state in the United States and has the most easterly longitude in the United States because the Aleutian Islands extend into the Eastern Hemisphere."
+}

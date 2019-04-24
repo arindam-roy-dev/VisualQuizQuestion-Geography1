@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which ocean surrounds the North Pole?",
+"answers":[
+	"Pacific Ocean",
+	"Atlantic Ocean",
+	"Arctic Ocean",
+	"All of above"
+	],
+"correctAnswer":3,
+"hints":[
+	"Situated at in the middle of an Ocean"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is defined as the point in the Northern Hemisphere where the Earth's axis of rotation meets its surface.\nNorth Pole is located in the middle of the Arctic Ocean amid waters that are almost permanently covered with constantly shifting sea ice. This makes it impractical to construct a permanent station at the North Pole."
+}
