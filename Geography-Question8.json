@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Country is called \"The Land of the Rising Sun\"?",
+"answers":[
+	"Taiwan",
+	"USA",
+	"China",
+	"Japan"
+	],
+"correctAnswer":4,
+"hints":[
+	"Small in size",
+	"Situated in Asia",
+	"Tokyo is the Capital"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"According to the words of the Japanese envoy himself, that name was chosen because the country was so close to where the sun rises. In any event, the name stuck, and for the last 1400 years or so, the world has referred to Japan as Nippon, the land of the rising sun."
+}

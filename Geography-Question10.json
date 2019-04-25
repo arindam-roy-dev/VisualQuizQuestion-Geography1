@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Hoover Dam is built on which of the following rivers?",
+"answers":[
+	"Rhine River",
+	"Colorado River",
+	"Hudson River",
+	"Nile River"
+	],
+"correctAnswer":2,
+"hints":[
+	"Hoover Dam is situated in the USA"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hoover Dam is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. It was constructed between 1931 and 1936."
+}

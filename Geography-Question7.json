@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the Capital of Argentina?",
+"answers":[
+	"Santa Fe",
+	"Buenos Aires",
+	"Argentenia",
+	"Sao Paulo"
+	],
+"correctAnswer":2,
+"hints":[
+	"July 9 Avenue, is a wide avenue located in the city."
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Buenos Aires is the capital and largest city of Argentina. The city is located on the western shore of the estuary of the Río de la Plata, on the South American continent's southeastern coast.\"Buenos Aires\" can be translated as \"fair winds\" or \"good airs\"."
+}

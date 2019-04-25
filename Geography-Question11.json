@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"The \"Helmand Province\" of Afghanistan is famous for cultivation of",
+"answers":[
+	"Cotton",
+	"wheat",
+	"Tobacco",
+	"Opium"
+	],
+"correctAnswer":4,
+"hints":[
+	"It's banned in neighbour Countries"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Afghanistan has been the world's leading illicit opium producer since 1992 (excluding the year 2001). Afghanistan's opium poppy harvest produces more than 90% of illicit heroin globally, and more than 95% of the European supply."
+}
