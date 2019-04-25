@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Country is this?",
+"answers":[
+	"Philippines",
+	"Papua New Guinea",
+	"Australia",
+	"Thailand"
+	],
+"correctAnswer":2,
+"hints":[
+	"Currency is Kina",
+	"Capital city is Port Moresby"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Papua New Guinea, in the southwestern Pacific, encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity, it’s known for its beaches and coral reefs. Inland are active volcanoes, granite Mt. Wilhelm, dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages, many with their own languages."
+}

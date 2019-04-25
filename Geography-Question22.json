@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which water body is this?",
+"answers":[
+	"Black Sea",
+	"Mediterranean Sea",
+	"Caspian Sea",
+	"Baltic Sea"
+	],
+"correctAnswer":2,
+"hints":[
+	"World's largest Inland Water Body",
+	"Inflowing Rivers: Volga River, Ural River, Kura River, Terek River"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Caspian Sea is the world's largest inland body of water, variously classed as the world's largest lake or a full-fledged sea. It is an endorheic basin (a basin without outflows) located between Europe and Asia, to the east of the Caucasus Mountains and to the west of the broad steppe of Central Asia."
+}

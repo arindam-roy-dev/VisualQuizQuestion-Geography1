@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the lowest layer of our atmosphere?",
+"answers":[
+	"Ionosphere",
+	"Thermosphere",
+	"Stratosphere",
+	"Troposphere"
+	],
+"correctAnswer":4,
+"hints":[
+	"Derived from the Greek Tropos (meaning \"turn, turn toward, change\")"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":3
+	},
+"aboutAnswer":"The Troposphere is the lowest layer of Earth's atmosphere, and is also where nearly all weather conditions take place. It contains approximately 75% of the atmosphere's mass and 99% of the total mass of water vapor and aerosols. This layer is typically a few hundred meters to 2 KM. Most of the phenomena associated with day-to-day weather occur in the Troposphere."
+}

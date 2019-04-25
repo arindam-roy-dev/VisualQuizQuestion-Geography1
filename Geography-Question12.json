@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which Country is this?",
+"answers":[
+	"Cuba",
+	"Panama",
+	"Costa Rica",
+	"Venezuela"
+	],
+"correctAnswer":1,
+"hints":[
+	"Official language is Spanish",
+	"Currency is Peso",
+	"Capital city is Havana"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba as well as Isla de la Juventud and several minor archipelagos. Cuba is located in the northern Caribbean where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey."
+}
