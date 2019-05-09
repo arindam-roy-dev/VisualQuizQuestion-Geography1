@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which country is known \'Land of Kangaroos\'?",
+"answers":[
+	"Indonesia",
+	"Australia",
+	"Zimbabwe",
+	"South Africa"
+	],
+"correctAnswer":2,
+"hints":[
+	"Located in USA Border"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Kangaroos are indigenous to Australia. The Australian government estimates that 34.3 million kangaroos lived within the commercial harvest areas of Australia in 2011, up from 25.1 million one year earlier.\nThe kangaroo is important to both Australian culture and the national image, and consequently there are numerous popular culture references.\nThe kangaroo is a symbol of Australia and appears on the Australian coat of arms and on some of its currency and is used by some of Australia\'s well known organisations, including Qantas and the Royal Australian Air Force."
+}
