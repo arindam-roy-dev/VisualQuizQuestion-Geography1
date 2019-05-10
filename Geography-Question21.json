@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Formation of Ozone hole is maximum over",
+"answers":[
+	"Antarctica",
+	"North America",
+	"Australia",
+	"Europe"
+	],
+"correctAnswer":1,
+"hints":[
+	"Reductions of up to 70 percent in the ozone column",
+	"Polar stratospheric clouds (PSCs) play an important role in enhancing ozone depletion"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Reductions of up to 70 percent in the ozone column observed in the austral (southern hemispheric) spring over Antarctica and first reported in 1985 (Farman et al.) are continuing.\nReactions that take place on polar stratospheric clouds (PSCs) play an important role in enhancing ozone depletion.\nPSCs form more readily in the extreme cold of the Arctic and Antarctic stratosphere. This is why ozone holes first formed, and are deeper, over Antarctica. Early models failed to take PSCs into account and predicted a gradual global depletion, which is why the sudden Antarctic ozone hole was such a surprise to many scientists.\nAs the ozone hole over Antarctica has in some instances grown so large as to affect parts of Australia, New Zealand, Chile, Argentina, and South Africa, environmentalists have been concerned that the increase in surface UV could be significant.\nProspects of ozone depletion - The Antarctic ozone hole is expected to continue for decades. Ozone concentrations in the lower stratosphere over Antarctica will increase by 5–10 percent by 2020 and return to pre-1980 levels by about 2060–2075."
+}

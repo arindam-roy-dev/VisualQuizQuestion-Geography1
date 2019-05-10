@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Where is the Gobi Desert located?",
+"answers":[
+	"Africa",
+	"Asia",
+	"Australia",
+	"South America"
+	],
+"correctAnswer":2,
+"hints":[
+	"The Gobi is notable in history as part of the great Mongol Empire",
+	"It covers parts of Northern and Northeastern China, and of southern Mongolia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Gobi Desert is a large desert or brushland region in Asia.\nIt covers parts of Northern and Northeastern China, and of southern Mongolia. The desert basins of the Gobi are bounded by the Altai Mountains and the grasslands and steppes of Mongolia on the north, by the Taklamakan Desert to the west, by the Hexi Corridor and Tibetan Plateau to the southwest, and by the North China Plain to the southeast.\nThe Gobi is notable in history as part of the great Mongol Empire, and as the location of several important cities along the Silk Road.\nThe Gobi is a rain shadow desert, formed by the Tibetan Plateau blocking precipitation from the Indian Ocean reaching the Gobi territory."
+}

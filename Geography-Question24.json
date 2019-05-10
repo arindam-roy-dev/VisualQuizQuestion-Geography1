@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Where is the oldest working refinery?",
+"answers":[
+	"Port Arthur Refinery, Texas, USA",
+	"Ras Tanura Refinery, Saudi Arabia",
+	"Digboi Refinery, India",
+	"Baton Rouge, LA, USA"
+	],
+"correctAnswer":3,
+"hints":[
+	"The Refinery was set up in 1901 by Assam Oil Company Ltd",
+	"Located in Asia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Digboi Refinery was set up at Digboi in 1901 by Assam Oil Company Ltd.\nThe Indian Oil Corporation Ltd (IOC) took over the refinery and marketing management of Assam Oil Company Ltd. with effect from 1981 and created a separate division.\nDigboi refinery is known as birth place of the oil Industry in India. It was commissioned on 11 December 1901. It has the distinction of being Asia\'s first refinery and one of oldest still in operation.\nOil was accidentally discovered in 1867 while laying a railway line in Digboi area. It was just found seeping out in dense jungles in Tinsukia district. Digging for oil was started in 1889 and the refinery set up in 1901 at Digboi."
+}

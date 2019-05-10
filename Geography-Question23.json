@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the global market of Flowers?",
+"answers":[
+	"France",
+	"Japan",
+	"India",
+	"Netherlands"
+	],
+"correctAnswer":4,
+"hints":[
+	"Aalsmeer is the largest flower market in the world",
+	"An European Country",
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Netherlands remains the center of production for the European floral market, as well as a major international supplier to other continents.\nThe flower auction at Aalsmeer is the largest flower market in the world. Since the mid-1970's, the production and distribution of cut flowers in Netherlands has burgeoned.\nIn 1995, Dutch growers produced over 8 billion blooms and the flower auctions collectively traded more than 5.4 billion euro (about $3.2 billion) in cut flowers and potted plants, contributing over 8 billion euro annually."
+}
