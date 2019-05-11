@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Andaman Islands and Nicobar Islands are separated by",
+"answers":[
+	"Andaman Sea",
+	"Bay of Bengal",
+	"Laccadive Sea",
+	"Ten Degree Channel"
+	],
+"correctAnswer":4,
+"hints":[
+	"Both Andaman Islands and Nicobar Islands are in Bay of Bengal",
+	"It lies on the 10-degree line of latitude, north of the equator"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Ten Degree Channel is a channel that separates the Andaman Islands and Nicobar Islands from each other in the Bay of Bengal.\nThe two sets of islands together form the Indian Union Territory (UT) of Andaman and Nicobar Islands.\nThis channel is 150 kilometres (93 mi) wide from north to south, and approximately 10 kilometres (6.2 mi) long from east to west. It is so named as it lies on the 10-degree line of latitude, north of the equator."
+}

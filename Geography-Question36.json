@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Sakurajima Volcano is in?",
+"answers":[
+	"Japan",
+	"China",
+	"North Korea",
+	"South Korea"
+	],
+"correctAnswer":1,
+"hints":[
+	"Located in Kyushu Island",
+	"It is near to Kagoshima"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Sakurajima is an active composite volcano, formerly an island and now a peninsula, in Kagoshima Prefecture in Kyushu, Japan.\nThe lava flows of the 1914 eruption connected it with the Ōsumi Peninsula. It is the most active volcano in Japan.\nThe volcanic activity still continues, dropping volcanic ash on the surroundings which continues as of March 2019. Earlier eruptions built the white sand highlands in the region. The most recent eruption started on May 2, 2017. On September 13, 2016 a team of experts from Bristol University and the Sakurajima Volcano Research Centre in Japan suggested that the volcano could have a major eruption within 30 years."
+}

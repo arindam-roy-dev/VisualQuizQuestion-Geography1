@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Trans-Siberian Railway (longest railway line in the world) connects between",
+"answers":[
+	"Moscow and Omsk",
+	"Moscow and Vladivostok",
+	"St Petersburg and Irkutsk",
+	"Sochi and Vladivostok"
+	],
+"correctAnswer":2,
+"hints":[
+	"Connects Moscow with the Russian Far East",
+	"It begins in Moscow, and runs through Yaroslavl, Chelyabinsk, Omsk, Novosibirsk, Irkutsk and more cities"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Trans-Siberian Railway (TSR) a network of railways connecting Moscow with the Russian Far East. With a length of 9,289 kilometres (5,772 miles), from Moscow to Vladivostok, it is the longest railway line in the world.\nThere are connecting branch lines into Mongolia, China and North Korea. It has connected Moscow with Vladivostok since 1916, and is still being expanded.\nIt was built between 1891 and 1916 under the supervision of Russian government ministers personally appointed by Tsar Alexander III and his son, the Tsarevich Nicholas (later Tsar Nicholas II). Even before it had been completed, it attracted travellers who wrote of their adventures.\nThe railway is often associated with the main transcontinental Russian line that connects hundreds of large and small cities of the European and Asian parts of Russia. It spans a record eight time zones, taking eight days to complete the journey.\nThe main route of the Trans-Siberian Railway begins in Moscow at Yaroslavsky Vokzal, runs through Yaroslavl, Chelyabinsk, Omsk, Novosibirsk, Irkutsk, Krasnoyarsk, Ulan-Ude, Chita, and Khabarovsk to Vladivostok via southern Siberia."
+}

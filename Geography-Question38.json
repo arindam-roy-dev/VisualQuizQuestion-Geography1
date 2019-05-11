@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which of the following is tropical grassland?",
+"answers":[
+	"Savannah",
+	"Pampas",
+	"Prairies",
+	"Taiga"
+	],
+"correctAnswer":1,
+"hints":[
+	"Characterised by the trees being sufficiently widely spaced so that the canopy does not close",
+	"It covers approximately 20% of the Earth\'s land area"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"A savanna or savannah is a mixed woodland grassland ecosystem characterised by the trees being sufficiently widely spaced so that the canopy does not close.\nSavannas maintain an open canopy despite a high tree density. It is often believed that savannas feature widely spaced, scattered trees. However, in many savannas, tree densities are higher and trees are more regularly spaced than in forests.\nSavannas are also characterised by seasonal water availability, with the majority of rainfall confined to one season; they are associated with several types of biomes, and are frequently in a transitional zone between forest and desert or grassland. Savanna covers approximately 20% of the Earth\'s land area."
+}

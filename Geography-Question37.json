@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"The great Victoria Desert is located in?",
+"answers":[
+	"China",
+	"Canada",
+	"Australia",
+	"Egypt"
+	],
+"correctAnswer":3,
+"hints":[
+	"South separates it from the Southern Ocean",
+	"Connie Sue Highway and the Anne Beadell Highway goes through it"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Great Victoria Desert, an interim Australian bioregion, is a sparsely populated desert area in Western Australia and South Australia.\nThe Great Victoria is the largest desert in Australia and consists of many small sandhills, grassland plains, areas with a closely packed surface of pebbles (called desert pavement or gibber plains) and salt lakes.\nAverage annual rainfall is low and irregular, ranging from 200 to 250 mm (7.9 to 9.8 in) per year. Thunderstorms are relatively common in the Great Victoria Desert, with an average of 15–20 thunderstorms per annum. Summer daytime temperatures range from 32 to 40 °C (90 to 104 °F) while in winter, this falls to 18 to 23 °C (64 to 73 °F).\nDespite its isolated location the Great Victoria is bisected by very rough tracks including the Connie Sue Highway and the Anne Beadell Highway.\nHuman activity has included some mining and nuclear weapons testing."
+}

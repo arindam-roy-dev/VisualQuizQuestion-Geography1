@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which of the following volcanoes is situated in Mexico?",
+"answers":[
+	"Mayon",
+	"Sakurajima",
+	"Colima",
+	"Mount Merapi"
+	],
+"correctAnswer":1,
+"hints":[
+	"One of the most active volcanos in Mexico and in North America",
+	"Part of the Colima Volcanic Complex (CVC)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Colima is part of the Colima Volcanic Complex (CVC). It is the youngest of the three and as of 2015 is one of the most active volcanos in Mexico and in North America.\nIt has erupted more than 40 times since 1576. One of the largest eruptions was on January 20–24, 1913.\nIn recent years there have been frequent temporary evacuations of nearby villagers due to threatening volcanic activity. Eruptions have occurred in 1991, 1998–1999 and from 2001 to the present day, with activity being characterised by extrusion of viscous lava forming a lava dome, and occasional larger explosions, forming pyroclastic flows and dusting the areas surrounding the volcano with ash and tephra.\nThe volcano is monitored by the Colima Volcano Observatory at the University of Colima, Mexico. A team analyzes, interprets and communicates every event that occurs at this volcano."
+}
