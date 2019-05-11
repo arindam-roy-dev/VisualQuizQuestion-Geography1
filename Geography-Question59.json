@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Where is Phuket City?",
+"answers":[
+	"Switzerland",
+	"South Africa",
+	"Thailand",
+	"Scotland"
+	],
+"correctAnswer":3,
+"hints":[
+	"Another City in the Country is Pattaya City",
+	"Asian Country",
+	"Capital of the Country is Bangkok"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Phuket City is a city in the south-east of Phuket island, Thailand. It is the capital of Phuket Province.\nPhuket is one of the oldest cities in Thailand.\nIt was an important port on the west of the Malay Peninsula where Chinese immigrants first landed."
+}

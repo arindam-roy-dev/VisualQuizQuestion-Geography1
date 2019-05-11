@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Where is Milan?",
+"answers":[
+	"Egypt",
+	"Italy",
+	"France",
+	"South Africa"
+	],
+"correctAnswer":2,
+"hints":[
+	"Capital of Lombardy, and the Second-most populous city in the Country after Rome",
+	"Located in Europe"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Milan is a city in northern Italy, capital of Lombardy, and the second-most populous city in Italy after Rome.\nMilan is considered a leading alpha global city, with strengths in the field of the art, commerce, design, education, entertainment, fashion, finance, healthcare, media, services, research and tourism.\nThe city has been recognized as one of the world\'s four fashion capitals. It hosted the Universal Exposition in 1906 and 2015. The city hosts numerous cultural institutions, academies and universities, with 11% of the national total enrolled students.\nMilan is the destination of 8 million overseas visitors every year, attracted by its museums and art galleries that boast some of the most important collections in the world, including major works by Leonardo da Vinci."
+}

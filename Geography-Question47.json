@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Where is Antalya?",
+"answers":[
+	"Turkey",
+	"Qatar",
+	"Saudi Arabia",
+	"Israel"
+	],
+"correctAnswer":1,
+"hints":[
+	"Located on Anatolia's southwest coast bordered by the Taurus Mountains",
+	"Largest City of the country is Istanbul"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Antalya is the eighth-most populous city in Turkey and the capital of Antalya Province. Located on Anatolia's southwest coast bordered by the Taurus Mountains, Antalya is the largest Turkish city on the Mediterranean coast with over one million people in its metropolitan area."
+}
