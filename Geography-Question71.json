@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Greece?",
+"answers":[
+	"Athens",
+	"Albania",
+	"Cairo",
+	"Alexandria"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is one of the world\'s oldest cities",
+	"Parthenon, Roman and Byzantine monuments, Ottoman monuments are there"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Athens is the capital and largest city of Greece. Athens dominates the Attica region and is one of the world\'s oldest cities, with its recorded history spanning over 3,400 years and its earliest human presence starting somewhere between the 11th and 7th millennium BC.\nClassical Athens was a powerful city-state that emerged in conjunction with the seagoing development of the port of Piraeus, which had been a distinct city prior to its 5th century BC incorporation with Athens. A center for the arts, learning and philosophy, home of Plato's Academy and Aristotle\'s Lyceum.\nIn modern times, Athens is a large cosmopolitan metropolis and central to economic, financial, industrial, maritime, political and cultural life in Greece. In 2012, Athens was ranked the world\'s 39th richest city by purchasing power and the 67th most expensive in a UBS study.\nAthens is a global city and one of the biggest economic centres in southeastern Europe. It has a large financial sector, and its port Piraeus is both the largest passenger port in Europe, and the second largest in the world. It is sixth busiest passenger port in Europe.\nThe heritage of the classical era is still evident in the city, represented by ancient monuments and works of art, the most famous of all being the Parthenon, considered a key landmark of early Western civilization. The city also retains Roman and Byzantine monuments, as well as a smaller number of Ottoman monuments. Athens is home to two UNESCO World Heritage Sites, the Acropolis of Athens and the medieval Daphni Monastery."
+}

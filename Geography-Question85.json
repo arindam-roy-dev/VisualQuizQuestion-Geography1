@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Malaysia?",
+"answers":[
+	"Bangkok",
+	"Ho Chi Minh City",
+	"Kuala Lumpur",
+	"Singapore"
+	],
+"correctAnswer":3,
+"hints":[
+	"Largest city in Malaysia",
+	"Safe Cities Index of 2017 rated Kuala Lumpur 31st out of 60"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Kuala Lumpur is the national capital and largest city in Malaysia.\nKuala Lumpur is the cultural, financial and economic centre of Malaysia. It is also home to the Parliament of Malaysia and the official residence of the Malaysian King (Yang di-Pertuan Agong), the Istana Negara. The city once held the headquarters of the executive and judicial branches of the federal government, but these were relocated to Putrajaya in early 1999.\nKuala Lumpur has been ranked by the Economist Intelligence Unit\'s Global Liveability Ranking at No. 70 in the world, and No. 2 in Southeast Asia after Singapore. EIU\'s Safe Cities Index of 2017 rated Kuala Lumpur 31st out of 60 on its world\'s safest cities list, safer than Beijing or Shanghai.\nKuala Lumpur was named as one of the \"New 7 Wonders\" Cities, and has been named as World Book Capital 2020 by UNESCO."
+}

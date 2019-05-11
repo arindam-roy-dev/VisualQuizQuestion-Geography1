@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Denmark?",
+"answers":[
+	"Hamburg",
+	"Copenhagen",
+	"Skagen",
+	"Stockholm"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is originally a Viking fishing village established in the 10th century",
+	"It became the capital of Denmark in the early 15th century"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Copenhagen is the capital and most populous city of Denmark.\nOriginally a Viking fishing village established in the 10th century in the vicinity of what is now Gammel Strand, Copenhagen became the capital of Denmark in the early 15th century. Beginning in the 17th century it consolidated its position as a regional centre of power with its institutions, defences and armed forces. After suffering from the effects of plague and fire in the 18th century, the city underwent a period of redevelopment.\nThe city is the cultural, economic and governmental centre of Denmark; it is one of the major financial centres of Northern Europe with the Copenhagen Stock Exchange.Copenhagen\'s economy has seen rapid developments in the service sector, especially through initiatives in information technology, pharmaceuticals and clean technology."
+}

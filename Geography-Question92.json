@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Netherlands?",
+"answers":[
+	"The Hague",
+	"Hanover",
+	"Haarlem",
+	"Amsterdam"
+	],
+"correctAnswer":4,
+"hints":[
+	"it is not the seat of the government, which is The Hague",
+	"European headquarters of Uber, Netflix and Tesla",
+	"The Amsterdam Stock Exchange, the oldest stock exchange in the world, is located Here"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Amsterdam is the capital city and most populous municipality of the Netherlands. It\'s status as the capital is mandated by the Constitution of the Netherlands, although it is not the seat of the government, which is The Hague.\nThe city is located in the province of North Holland in the west of the country but is not its capital, which is Haarlem.\nOriginating as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world during the Dutch Golden Age (17th century), as a result of its innovative developments in trade. During that time, the city was the leading centre for finance and trade. In the 19th and 20th centuries the city expanded, and many new neighbourhoods and suburbs were planned and built.\nThe 17th-century canals of Amsterdam and the 19–20th century Defence Line of Amsterdam are on the UNESCO World Heritage List.\nSince the annexation of the municipality of Sloten in 1921 by the municipality of Amsterdam, the oldest historic part of the city lies in Sloten, dating to the 9th century.\nAs the commercial capital of the Netherlands and one of the top financial centres in Europe, Amsterdam is considered an alpha- world city by the Globalization and World Cities (GaWC) study group. The city is also the cultural capital of the Netherlands. Many large Dutch institutions have their headquarters there, including Philips, AkzoNobel, TomTom and ING. Also, many of the world\'s largest companies are based in Amsterdam or established their European headquarters in the city, such as leading technology companies Uber, Netflix and Tesla. In 2012, Amsterdam was ranked the second best city to live in by the Economist Intelligence Unit (EIU) and 12th globally on quality of living for environment and infrastructure by Mercer."
+}

@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"This is National flag of which country?",
+"answers":[
+	"France",
+	"South Korea",
+	"Israel",
+	"Cuba"
+	],
+"correctAnswer":2,
+"hints":[
+	"An Asian Country",
+	"Capital is Seoul"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	}
+}

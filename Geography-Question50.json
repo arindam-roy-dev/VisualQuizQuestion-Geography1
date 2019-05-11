@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Istanbul is the city in what country?",
+"answers":[
+	"Bulgaria",
+	"Turkey",
+	"Argentina",
+	"Israel"
+	],
+"correctAnswer":2,
+"hints":[
+	"Located mainly in Western Asia, with a smaller portion in Southeast Europe",
+	"Capital is Ankara"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Turkey is a transcontinental country located mainly in Western Asia, with a smaller portion on the Balkan Peninsula in Southeast Europe. It\'s largest city is Istanbul.\nIstanbul, formerly known as Byzantium and Constantinople, is the most populous city in Turkey and the country's economic, cultural and historic center. Istanbul is one of the world\'s most populous cities, ranking as the world's fourth largest city proper and the largest European city."
+}

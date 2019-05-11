@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Cuba?",
+"answers":[
+	"Trinidad",
+	"Baracoa",
+	"Havana",
+	"Santiago de Cuba"
+	],
+"correctAnswer":3,
+"hints":[
+	"Largest city, Province, major Port, and leading Commercial center of Cuba",
+	"Was founded by the Spanish in the 16th century"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Havana is the capital city, largest city, province, major port, and leading commercial center of Cuba.\nThe city has a population of 2.1 million inhabitants and it spans a total of 781.58 km2 (301.77 sq mi) – making it the largest city by area, the most populous city, and the fourth largest metropolitan area in the Caribbean region.\nThe city of Havana was founded by the Spanish in the 16th century and due to its strategic location it served as a springboard for the Spanish conquest of the Americas, becoming a stopping point for treasure-laden Spanish galleons returning to Spain. The King Philip II of Spain granted Havana the title of City in 1592.\nThe city attracts over a million tourists annually. Old Havana was declared a UNESCO World Heritage Site in 1982. The city is also noted for its history, culture, architecture and monuments."
+}

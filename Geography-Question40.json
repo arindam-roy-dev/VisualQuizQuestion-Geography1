@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"This is National flag of which country?",
+"answers":[
+	"Bangladesh",
+	"African Union",
+	"Brazil",
+	"Nigeria"
+	],
+"correctAnswer":3,
+"hints":[
+	"South American Country",
+	"Capital is Brasília"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	}
+}

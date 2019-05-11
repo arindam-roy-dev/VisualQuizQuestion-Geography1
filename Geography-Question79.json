@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Capital of Iran?",
+"answers":[
+	"Kabul",
+	"Tehran",
+	"Abu Dhabi",
+	"Dubai"
+	],
+"correctAnswer":2,
+"hints":[
+	"It was subject to destruction through the medieval Arab, Turkic, and Mongol invasions",
+	"Most populous city in Iran and Western Asia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Tehran is the capital of Iran and Tehran Province. Tehran is the most populous city in Iran and Western Asia, and has the second-largest metropolitan area in the Middle East. It is ranked 24th in the world by the population of its metropolitan area.\nIn the Classical era, part of the territory of present-day Tehran was occupied by Rhages, a prominent Median city. It was subject to destruction through the medieval Arab, Turkic, and Mongol invasions.\nTehran was first chosen as the capital of Iran by Agha Mohammad Khan of the Qajar dynasty in 1796.\nTehran is home to many historical collections, including the royal complexes of Golestan, Sa'dabad, and Niavaran, where the two last dynasties of the former Imperial State of Iran were seated. Tehran\'s most famous landmarks include the Azadi Tower, a memorial built under the reign of Mohammad Reza Shah of the Pahlavi dynasty in 1971. Milad Tower, the world\'s sixth-tallest self-supporting tower which was completed in 2007.\nThere have been plans to relocate Iran\'s capital from Tehran to another area, due mainly to air pollution and the city\'s exposure to earthquakes. To date, no definitive plans have been approved."
+}

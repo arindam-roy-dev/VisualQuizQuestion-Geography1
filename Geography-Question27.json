@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Dubai is the city in what country?",
+"answers":[
+	"United Arab Emirates",
+	"Qatar",
+	"Saudi Arabia",
+	"Israel"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is a country in Western Asia",
+	"Qatar to the west and Iran to the north"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The United Arab Emirates, is a country in Western Asia at the southeast end of the Arabian Peninsula on the Persian Gulf, bordering Oman to the east and Saudi Arabia to the south, as well as sharing maritime borders with Qatar to the west and Iran to the north.\nIt\'s most populous city of Dubai is an important global city and an international aviation and maritime trade hub."
+}
