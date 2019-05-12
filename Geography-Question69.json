@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Volta River project is located in which country ?",
+"answers":[
+	"Ghana",
+	"Zimbabwe",
+	"Nigeria",
+	"Southern Africa"
+	],
+"correctAnswer":1,
+"hints":[
+	"Hydroelectric dam on the Volta River to provide electricity for the Aluminium industry",
+	"Flooding that created the Lake Volta which is the largest man-made lake in the world by surface area"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Akosombo Dam, also known as the Volta Dam, is a hydroelectric dam on the Volta River in southeastern Ghana in the Akosombo gorge and part of the Volta River Authority.\nThe construction of the dam flooded part of the Volta River Basin, and led to the subsequent creation of Lake Volta. The flooding that created the Lake Volta reservoir displaced many people and had a significant impact on the local environment.\nLake Volta is the largest man-made lake in the world by surface area. It covers 8,502 square kilometres (3,283 sq mi), which is 3.6% of Ghana's land area.\nLake Volta is the world\'s third largest man-made lake by volume, the largest being Lake Kariba which is located between Zimbabwe and Zambia in Southern Africa.\nThe primary purpose of the Akosombo Dam was to provide electricity for the aluminium industry. The Akosombo Dam was called \"the largest single investment in the economic development plans of Ghana\". The dam is also significant for providing the majority of both Togo and Benin\'s electricity, although the construction of the Adjarala Dam hopes to reduce these countries\' reliance on imported electricity. The dam\'s electrical output is now 1,020 Mega Watts."
+}

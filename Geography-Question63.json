@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which Country has the largest reserves of Natural Gas in the world?",
+"answers":[
+	"United States",
+	"Qatar",
+	"Iran",
+	"Russia"
+	],
+"correctAnswer":4,
+"hints":[
+	"An European Country",
+	"Frankfurt is one of the Cities",
+	"Capital is Berlin"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Gas reserves were dominated by three countries: Iran, Russia, and Qatar, which together held nearly half the world\'s proven reserves.\nRussia has by far the largest proven reserves include the US CIA (47.6 trillion cubic meters). Iran hols 2nd rank with reserve of 33.7 trillion cubic meters.\nDue to constant announcements of shale gas recoverable reserves, as well as drilling in Central Asia, South America and Africa, deepwater drilling, estimates are undergoing frequent updates, mostly increasing.\nSince 2000, some countries, notably the US and Canada, have seen large increases in proved gas reserves due to development of shale gas, but shale gas deposits in most countries are yet to be added to reserve calculations."
+}

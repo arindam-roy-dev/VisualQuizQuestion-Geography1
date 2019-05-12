@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Longest Day in Australia?",
+"answers":[
+	"June 21",
+	"March 23",
+	"September 22",
+	"December 22"
+	],
+"correctAnswer":4,
+"hints":[
+	"Australia belongs to Southern Hemisphere",
+	"June 21 is the Longest day in Northern Hemisphere"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"In the southern hemisphere, the day with the shortest time between sunrise and sunset is the day of the June (winter) solstice, which falls on or near the 21st of June, and the day with the longest time between sunrise and sunset is the day of the December (summer) solstice, which falls on or near the 22nd of December.\nThe Southern Hemisphere is the half of Earth that is south of the Equator.\nIt contains all or parts of five continents (Antarctica, Australia, about 90% of South America, a third of Africa, and several islands off the continental mainland of Asia), four oceans (Indian, South Atlantic, Southern, and South Pacific) and most of the Pacific Islands in Oceania.\nIts surface is 80.9% water, compared with 60.7% water in the case of the Northern Hemisphere, and it contains 32.7% of Earth\'s land."
+}

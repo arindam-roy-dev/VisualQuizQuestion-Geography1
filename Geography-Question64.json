@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Mount Logan is the Highest Point of which Country?",
+"answers":[
+	"Australia",
+	"Canada",
+	"Alaska",
+	"Mexico"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is Second Highest peak in North America",
+	"Located within Kluane National Park Reserve in southwestern Yukon",
+	"North of the Yukon Alaska border"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mount Logan is the highest mountain in Canada and the second-highest peak in North America, after Denali.\nMount Logan is located within Kluane National Park Reserve in southwestern Yukon, less than 40 kilometres (25 mi) north of the Yukon–Alaska border.\nMount Logan is the source of the Hubbard and Logan glaciers. Logan is believed to have the largest base circumference of any non-volcanic mountain on Earth, including a massif with eleven peaks over 5,000 metres (16,400 ft).\nDue to active tectonic uplifting, Mount Logan is still rising in height. Before 1992, the exact elevation of Mount Logan was unknown. In May 1992, a GSC expedition climbed Mount Logan and fixed the current height of 5,959 metres (19,551 ft) using GPS.\nTemperatures are extremely low on and near Mount Logan. On the 5,000 m high plateau, air temperature hovers around −45 °C (−49 °F) in the winter and reaches near freezing in summer with the median temperature for the year around −27 °C (−17 °F). Minimal snow melt leads to a significant ice cap, reaching almost 300 m (984 ft) in certain spots."
+}

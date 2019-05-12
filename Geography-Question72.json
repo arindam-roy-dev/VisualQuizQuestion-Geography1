@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Only Active Volcano in South Asia?",
+"answers":[
+	"Narcondam",
+	"Deccan Traps",
+	"Barren",
+	"Baratang"
+	],
+"correctAnswer":3,
+"hints":[
+	"Only active volcano along a chain of volcanoes from Sumatra to Myanmar",
+	"Narcondam is a dormant volcano"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Barren Island is an island located in the Andaman Sea, dominated by Barren Volcano, the only confirmed active volcano in South Asia, and the only active volcano along a chain of volcanoes from Sumatra to Myanmar.\nAlong with the rest of the Andaman Islands, it is a part of the Indian Union Territory of Andaman and Nicobar Islands, and lies about 138 km (86 mi) northeast of the territory's capital, Port Blair.\nThis volcanic island stands in the midst of a volcanic belt on the edge of the Indian and Burmese tectonic plates. Narcondam Island is a dormant volcano in the area."
+}

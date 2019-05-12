@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The word \"El Niño\" comes from which Language?",
+"answers":[
+	"Arabic",
+	"French",
+	"Spanish",
+	"Portuguese"
+	],
+"correctAnswer":3,
+"hints":[
+	"El Niño means \"The Boy\""
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In American Spanish, the capitalized term El Niño means \"The Boy\". El Niño is the warm phase of the El Niño–Southern Oscillation (ENSO) and is associated with a band of warm ocean water that develops in the central and east-central equatorial Pacific (between approximately the International Date Line and 120°W), including the area off the Pacific coast of South America.\nEl Niño is accompanied by high air pressure in the western Pacific and low air pressure in the eastern Pacific.\nEl Niño phases are known to occur close to four years, however, records demonstrate that the cycles have lasted between two and seven years. During the development of El Niño, rainfall develops between September–November.\nThe ENSO cycle, it causes global changes in temperature and rainfall.\nDeveloping countries that depend on their own agriculture and fishing, particularly those bordering the Pacific Ocean, are usually most affected."
+}
