@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Southernmost Landlocked (Entirely enclosed by Land) Country?",
+"answers":[
+	"Malawi",
+	"Mali",
+	"Niger",
+	"Lesotho"
+	],
+"correctAnswer":4,
+"hints":[
+	"Surrounded by South Africa",
+	"Its capital and largest city is Maseru"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Lesotho, is an enclaved country within the border of South Africa. It is one of only three independent states completely surrounded by the territory of another country.\nLesotho is just over 30,000 km2 (11,583 sq mi) in size and has a population of around 2 million. Its capital and largest city is Maseru.\nLesotho was previously the British Crown Colony of Basutoland, but it declared independence from the United Kingdom on 4 October 1966. It is now a fully sovereign state that is a member of the United Nations, the Commonwealth of Nations, and the Southern African Development Community (SADC)."
+}

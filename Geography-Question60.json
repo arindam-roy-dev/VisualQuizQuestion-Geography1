@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Federated States of Micronesia is an independent republic, associated with the United States. Those are spread across",
+"answers":[
+	"Indian Ocean",
+	"Western Pacific Ocean",
+	"Atlantic Ocean",
+	"Arabian Sea"
+	],
+"correctAnswer":2,
+"hints":[
+	"It consists of four states – Yap, Chuuk, Pohnpei and Kosrae",
+	"They lie northeast of New Guinea, south of Guam and the Marianas, west of Nauru and the Marshall Islands, east of Palau and the Philippines"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Federated States of Micronesia is an independent republic associated with the United States. It consists of four states – from west to east, Yap, Chuuk, Pohnpei and Kosrae – Those are spread across the Western Pacific Ocean.\nTogether, the states comprise around 607 islands that cover a longitudinal distance of almost 2,700 km (1,678 mi) just north of the equator.\nThey lie northeast of New Guinea, south of Guam and the Marianas, west of Nauru and the Marshall Islands, east of Palau and the Philippines."
+}

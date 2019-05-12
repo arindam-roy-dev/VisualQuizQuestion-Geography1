@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Country is the Largest exporter of Cotton?",
+"answers":[
+	"India",
+	"United States",
+	"China",
+	"Mexico"
+	],
+"correctAnswer":2,
+"hints":[
+	"China is the world\'s largest producer, but most of this is used domestically",
+	"North American Country"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. The fiber is almost pure cellulose. Under natural conditions, the cotton bolls will increase the dispersal of the seeds.\nThe plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa, Egypt and India. The greatest diversity of wild cotton species is found in Mexico, followed by Australia and Africa.\nCurrent estimates for world production are about 25 million tonnes or 110 million bales annually, accounting for 2.5% of the world\'s arable land. China is the world\'s largest producer of cotton, but most of this is used domestically.\nThe United States has been the largest exporter for many years."
+}
