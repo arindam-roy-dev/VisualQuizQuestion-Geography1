@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"Mount Logan is the Highest Point of which Country?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Alaska",
 	"Mexico"
 	],
-"correctAnswer":4,
+"correctAnswer":2,
 "hints":[
 	"It is Second Highest peak in North America",
 	"Located within Kluane National Park Reserve in southwestern Yukon",

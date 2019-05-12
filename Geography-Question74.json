@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the total number of Landlocked Countries in the World ?",
+"answers":[
+	"33",
+	"49",
+	"5",
+	"25"
+	],
+"correctAnswer":2,
+"hints":[
+	"Third Largest island in the world and the largest in Asia",
+	"Located north of Java, west of Sulawesi, and east of Sumatra"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A landlocked state or landlocked country is a sovereign state entirely enclosed by land, or whose only coastlines lie on closed seas. There are currently 49 such countries, including five partially recognised states.\nAs a rule, being landlocked creates political and economic handicaps that access to the high seas avoids. For this reason, states large and small across history have striven to gain access to open waters, even at great expense in wealth, bloodshed, and political capital.\nThe economic disadvantages of being landlocked can be alleviated or aggravated depending on degree of development, language barriers, and other considerations. Some landlocked countries are quite affluent, such as Switzerland, Liechtenstein, Luxembourg, and Austria, all of which frequently employ neutrality to their political advantage.\nThe majority, however, are classified as Landlocked Developing Countries (LLDCs).\nNine of the twelve countries with the lowest Human Development Indices (HDI) are landlocked."
+}

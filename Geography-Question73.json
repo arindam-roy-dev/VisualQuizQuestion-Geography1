@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which island is divided into Brunei, Indonesia and Malaysia?",
+"answers":[
+	"Island of Borneo",
+	"Sebatik Island",
+	"Madura Island",
+	"Island of Siberut"
+	],
+"correctAnswer":1,
+"hints":[
+	"Third Largest island in the world and the largest in Asia",
+	"Located north of Java, west of Sulawesi, and east of Sumatra"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Borneo is the third largest island in the world and the largest in Asia. At the geographic centre of Maritime Southeast Asia, in relation to major Indonesian islands, it is located north of Java, west of Sulawesi, and east of Sumatra.\nThe island of Borneo is divided administratively by three countries.\nThe Indonesian provinces of East, South, West, North and Central Kalimantan, in Kalimantan.\nThe Malaysian states of Sabah and Sarawak, and the Federal Territory of Labuan (located on nearshore islands of Borneo). The independent sultanate of Brunei (main part and eastern exclave of Temburong)."
+}

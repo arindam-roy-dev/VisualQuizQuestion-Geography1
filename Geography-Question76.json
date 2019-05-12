@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Sea has no Coastline?",
+"answers":[
+	"Caspian Sea",
+	"South China Sea",
+	"Sargasso Sea",
+	"Sea of Okhotsk"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a region of the North Atlantic Ocean bounded by four currents forming an ocean gyre",
+	"Bermuda is near the western fringes of the sea"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Sargasso Sea is a region of the North Atlantic Ocean bounded by four currents forming an ocean gyre. Unlike all other regions called seas, it has no land boundaries.\nIt is distinguished from other parts of the Atlantic Ocean by its characteristic brown Sargassum seaweed and often calm blue water.\nThe sea is bounded on the west by the Gulf Stream, on the north by the North Atlantic Current, on the east by the Canary Current, and on the south by the North Atlantic Equatorial Current, a clockwise-circulating system of ocean currents termed the North Atlantic Gyre.\nBermuda is near the western fringes of the sea.\nAll the currents deposit the marine plants and refuse they carry into this sea, yet the ocean water in the Sargasso Sea is distinctive for its deep blue color and exceptional clarity, with underwater visibility of up to 61 m (200 ft)."
+}
