@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The Registan Desert is a part of which Country?",
+"answers":[
+	"India",
+	"Pakistan",
+	"Afghanistan",
+	"Tajikistan"
+	],
+"correctAnswer":3,
+"hints":[
+	"Located between Helmand and Kandahar provinces"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Registan Desert, is an extremely arid plateau region located between Helmand and Kandahar provinces in southwestern Afghanistan.\nIt is a sandy desert consisting of small, red sand hills about 50 to 100 feet (30 m) high, sand-covered plains, and open rocky and clay-covered areas.\nThe underlying base of the hills consists of partly stabilized ancient transverse dunes, reflecting a west-to-east wind and nearly unlimited sand supply.\nThe desert is very sparsely populated by Baluchi and Pashtun nomads. The desert is gradually encroaching on surrounding agricultural areas."
+}

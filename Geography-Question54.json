@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Where is Congo River?",
+"answers":[
+	"Africa",
+	"Asia",
+	"Australia",
+	"South America"
+	],
+"correctAnswer":1,
+"hints":[
+	"Shorter only than the Nile",
+	"Its tributaries flow through the Congo Rainforest"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The great Congo River, formerly known as the Zaire River under the Mobutu regime, is the second longest river in Africa, shorter only than the Nile, as well as the second largest river in the world by discharge volume, following only the Amazon. It is also the world\'s deepest recorded river.\nThe river and its tributaries flow through the Congo Rainforest, the second largest rain forest area in the world, second only to the Amazon Rainforest in South America."
+}
