@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Longest river in Asia?",
+"answers":[
+	"Mekong",
+	"Yangtze",
+	"Brahmaputra",
+	"Yenisei"
+	],
+"correctAnswer":2,
+"hints":[
+	"It\'s source is in the northern part of the Tibetan Plateau",
+	"Ends to East China Sea",
+	"It flows entirely within one country, China"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Yangtze or Yangzi, which is 6,300 km (3,915 mi) long, is the longest river in Asia, the third-longest in the world. It is the sixth-largest river by discharge volume in the world.\nIts source is in the northern part of the Tibetan Plateau and it flows in a generally eastern direction to the East China Sea.\nIts drainage basin comprises one-fifth of the land area of China, and is home to nearly one-third of the country\'s population.\nIt runs eastward through Qinghai (Tsinghai), turning southward down a deep valley at the border of Sichuan (Szechwan) and Tibet to reach Yunnan. It passes through the spectacular Yangtze Gorges, which are noted for their natural beauty but are dangerous to shipping. It enters the basin of Sichuan at Yibin. While in the Sichuan basin, it receives several mighty tributaries, increasing its water volume significantly. It then cuts through Mount Wushan bordering Chongqing and Hubei to create the famous Three Gorges. Eastward of the Three Gorges, Yichang is the first city on the Yangtze Plain.\nFour of China\'s five main freshwater lakes contribute their waters to the Yangtze River."
+}

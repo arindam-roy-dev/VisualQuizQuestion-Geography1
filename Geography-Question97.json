@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Longest river in South America?",
+"answers":[
+	"Madeira River",
+	"Parana River",
+	"Amazon River",
+	"Orinoco River"
+	],
+"correctAnswer":3,
+"hints":[
+	"It flows upto Atlantic Ocean",
+	"Goes through Peru, Colombia and Brazil"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Amazon River in South America is the largest river by discharge volume of water in the world, and by some definitions it is the longest.\nThe source of the Amazon River has been attributed to the headwaters of three different Peruvian rivers in the high Andes: the Marañón, the Apurímac, and the Mantaro. It flows upto Atlantic Ocean."
+}

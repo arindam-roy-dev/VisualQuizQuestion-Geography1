@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Longest river in Australia?",
+"answers":[
+	"Murrumbidgee River",
+	"Darling River",
+	"Lachlan River",
+	"Murray River"
+	],
+"correctAnswer":4,
+"hints":[
+	"Rises in the Australian Alps, draining the western side of Australia\'s highest mountains",
+	"End to the ocean at Lake Alexandrina"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Murray River is Australia\'s longest river, at 2,508 kilometres (1,558 mi) in length.\nThe Murray rises in the Australian Alps, draining the western side of Australia\'s highest mountains, and then meanders across Australia\'s inland plains, forming the border between the states of New South Wales and Victoria as it flows to the northwest into South Australia. It turns south at Morgan for its final 315 kilometres (196 mi), reaching the ocean at Lake Alexandrina.\nThe water of the Murray flows through several terminal lakes that fluctuate in salinity (and were often fresh until recent decades) including Lake Alexandrina and The Coorong before emptying through the Murray Mouth into the southeastern portion of the Indian Ocean."
+}

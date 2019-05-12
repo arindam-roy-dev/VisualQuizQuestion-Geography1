@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Driest Desert in Earth?",
+"answers":[
+	"Kalahari",
+	"Atacama",
+	"Mojave Desert",
+	"Tabernas Desert"
+	],
+"correctAnswer":2,
+"hints":[
+	"Located in South America",
+	"Strip of land on the Pacific coast, west of the Andes mountains"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Atacama Desert is a desert plateau in South America covering a 1000-km (600-mi) strip of land on the Pacific coast, west of the Andes mountains. The Atacama desert is one of the driest places in the world.\nMost of the desert is composed of stony terrain, salt lakes (salares), sand, and felsic lava that flows towards the Andes.\nThe desert owes its extreme aridity to a constant temperature inversion due to the cool north-flowing Humboldt ocean current, and to the presence of the strong Pacific anticyclone.\nThe most arid region of the Atacama desert is situated between two mountain chains (the Andes and the Chilean Coast Range) of sufficient height to prevent moisture advection from either the Pacific or the Atlantic Oceans, a two-sided rain shadow."
+}
