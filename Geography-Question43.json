@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The Gulf that separates Finland and Sweden is",
+"answers":[
+	"Gulf of Lions",
+	"Gulf of Bothnia",
+	"Gulf of Genoa",
+	"Gulf of Venice"
+	],
+"correctAnswer":2,
+"hints":[
+	"Northernmost arm of the Baltic Sea",
+	"In the south of the gulf lie the Aland Islands, between the Sea of Aland and the Archipelago Sea."
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Gulf of Bothnia is the northernmost arm of the Baltic Sea. It is situated between Finland's west coast and Sweden's east coast.\nIn the south of the gulf lie the Aland Islands, between the Sea of Aland and the Archipelago Sea.\nThe depth and surface area of the Gulf of Bothnia are constantly decreasing, as the land is rising after it had been pressed down by the continental ice during last ice age. The rise is 80 cm every hundred years.\nBeing nearly fresh, the gulf is frozen over five months every year. The icing of the Baltic Sea begins and ends in the northern Gulf of Bothnia. Traffic restrictions for icebreaker assistance are typically in force for all the gulf from late January to late April and for the northernmost ports from the middle of December to the middle of May."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Strait of Gibraltar is a narrow strait that divides Europe and Africa. It connects between",
+"answers":[
+	"Balck Sea and Mediterranean Sea",
+	"North Sea and Baltic Sea",
+	"Atlantic Ocean and North Sea",
+	"Atlantic Ocean and Mediterranean Sea"
+	],
+"correctAnswer":4,
+"hints":[
+	"It devides Europe from Ceuta (Spain) and Morocco in Africa",
+	"Because of higher sea level, most water in the Mediterranean basin would evaporate within only a thousand years"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Strait of Gibraltar is a narrow strait that connects the Atlantic Ocean to the Mediterranean Sea and separates Gibraltar and Peninsular Spain in Europe, from Ceuta (Spain) and Morocco in Africa.\nEurope and Africa are separated by 7.7 nautical miles (14.3 km; 8.9 mi) of ocean at the strait's narrowest point.\nThe seabed of the Strait is composed of synorogenic Betic-Rif clayey flysch covered by Pliocene and/or Quaternary calcareous sediments, sourced from thriving cold water coral communities.\nIt is estimated that, were the straits closed even at today\'s higher sea level, most water in the Mediterranean basin would evaporate within only a thousand years, as it is believed to have done then, and such an event would lay down mineral deposits like the salt deposits now found under the sea floor all over the Mediterranean."
+}

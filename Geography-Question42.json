@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Highest Mountain in Africa?",
+"answers":[
+	"Mount Kenya",
+	"Mount Stanley",
+	"Mount Kilimanjaro",
+	"Mount Speke"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a dormant volcano, with three Volcanic cones, \"Kibo\", \"Mawenzi\", and \"Shira\"",
+	"Located in Tanzania"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mount Kilimanjaro with its three volcanic cones, \"Kibo\", \"Mawenzi\", and \"Shira\", is a dormant volcano in Tanzania. It is the highest mountain in Africa, with 5,895 metres (19,341 ft) of height above sea level.\nThe first people known to have reached the summit of the mountain were Hans Meyer and Ludwig Purtscheller, in 1889. The mountain is part of Kilimanjaro National Park and is a major climbing destination.\nThe mountain has been the subject of many scientific studies because of its shrinking glaciers and disappearing ice fields."
+}

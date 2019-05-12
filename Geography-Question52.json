@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Longest Mountain Range in the World?",
+"answers":[
+	"Himalayan Range of Asia",
+	"Rockies of North America",
+	"Andes of South America",
+	"Great Dividing Range of Australia"
+	],
+"correctAnswer":3,
+"hints":[
+	"Cities such as Quito, Bogotá, Mérida are located",
+	"It goes through Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile and Argentina"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Andes or Andean Mountains are the longest continental mountain range in the world, forming a continuous highland along the western edge of South America. This range is about 7,000 km (4,300 mi) long, about 200 to 700 km (120 to 430 mi) wide, and of an average height of about 4,000 m (13,000 ft).\nThe Andes extend from north to south through seven South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile and Argentina.\nThe Andes are the location of several high plateaus – some of which host major cities such as Quito, Bogotá, Cali, Arequipa, Medellín, Sucre, Mérida and La Paz. The Altiplano plateau is the world\'s second-highest after the Tibetan plateau."
+}

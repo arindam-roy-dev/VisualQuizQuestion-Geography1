@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Where is Alps?",
+"answers":[
+	"Asia",
+	"Europe",
+	"Australia",
+	"Africa"
+	],
+"correctAnswer":2,
+"hints":[
+	"It goes through France, Switzerland, Italy, Monaco, Liechtenstein, Austria, Germany, and Slovenia."
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Alps are the highest and most extensive mountain range system that lies entirely in Europe. It separates Southern from Central and Western Europe and stretching approximately 1,200 kilometres (750 mi) across eight Alpine countries (from west to east): France, Switzerland, Italy, Monaco, Liechtenstein, Austria, Germany, and Slovenia.\nThe mountains were formed over tens of millions of years as the African and Eurasian tectonic plates collided.\nThe range stretches from the Mediterranean Sea north above the Po basin, extending through France from Grenoble, and stretching eastward through mid and southern Switzerland. The range continues onward toward Vienna, Austria, and east to the Adriatic Sea and Slovenia."
+}
