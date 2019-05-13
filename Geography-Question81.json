@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The Place of Origin of an Earthquake is called",
+"answers":[
+	"Epicentre",
+	"Seismal",
+	"Amphidromic Point",
+	"Focus"
+	],
+"correctAnswer":4,
+"hints":[
+	"Epicenter is the point on the Earth's surface directly above a hypocenter or focus"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The point at which fault slipping begins is the referred to as the Focus of the Earthquake.\nThe fault rupture begins at the focus and then expands along the fault surface.\nThe magnitude of an earthquake is related to the total area of its fault rupture. Most earthquakes are small, with rupture dimensions less than the depth of the focus so the rupture doesn\'t break the surface, but in high magnitude, destructive earthquakes, surface breaks are common.\nFault ruptures in large earthquakes can extend for more than 100 km (62 mi). When a fault ruptures unilaterally (with the epicenter at or near the end of the fault break) the waves are stronger in one direction along the fault."
+}

@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The difference in the Duration of Day and Night increases as someone moves from?",
+"answers":[
+	"West to East",
+	"Equator to poles",
+	"East and west of the prime meridian",
+	"Poles to equator"
+	],
+"correctAnswer":2,
+"hints":[
+	"Duration of Day and Night behaves opposite among Equator and Poles"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"At the Equator, the daytime period always lasts about 12 hours, regardless of season. As viewed from the Equator, the Sun always rises and sets vertically, following an apparent path nearly perpendicular to the horizon. Due to the axial tilt of Earth, Sun always lies within 23.5° north or south of the celestial equator, so the subsolar point always lies within the tropics.\nAround the poles, which coincide with the rotational axis of Earth as it passes through the surface, the seasonal variations in the length of daytime are extreme. In fact, within 23.5° latitude of the poles, there will be at least some days each year during which the sun never goes below the horizon. There will also be days when the Sun never rises above the horizon. This number will be fewer, but close to the number of days in the summer where the sun doesn\'t set."
+}
