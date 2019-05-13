@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the world\'s busiest Container Port? (Ports with container terminals that specialize in handling goods transported in shipping containers)",
+"answers":[
+	"Singapore",
+	"Hong Kong",
+	"Shanghai, China",
+	"Los Angeles, United States"
+	],
+"correctAnswer":3,
+"hints":[
+	"Port of an Asian Country",
+	"It faces the East China Sea to the east"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Port of Shanghai, located in the vicinity of Shanghai, comprises a deep-sea port and a river port.\nIn 2010, Shanghai port overtook the Port of Singapore to become the world\'s busiest container port. Shanghai\'s port handled 29.05 million TEUs, whereas Singapore's was a half million TEU's behind. In 2017, Shanghai port set a historic record by handling over 40 million TEUs.\nThe Port of Shanghai faces the East China Sea to the east, and Hangzhou Bay to the south. It includes the confluences of the Yangtze River, Huangpu River (which enters the Yangtze River), and Qiantang River."
+}
