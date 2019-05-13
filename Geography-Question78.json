@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Mont Blanc is the Highest Peak of which Mountain Range?",
+"answers":[
+	"Saint Elias Mountains",
+	"Rocky Mountains",
+	"Himalayas",
+	"The Alps"
+	],
+"correctAnswer":4,
+"hints":[
+	"It\'s in Europe"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Mont Blanc (meaning \"White Mountain\"), is the highest mountain in the Alps and the highest in Europe west of Russia\'s Caucasus peaks. It rises 4,808.7 m (15,777 ft) above sea level and is ranked 11th in the world in topographic prominence.\nThe mountain stands in a range called the Graian Alps, between the regions of Aosta Valley, Italy, and Savoie and Haute-Savoie, France.\nThe location of the summit is on the watershed line between the valleys of Ferret and Veny in Italy and the valleys of Montjoie, and Arve in France, in the middle of what is generally considered to be the border between the two countries.\nThe Mont Blanc massif is popular for outdoor activities like hiking, climbing, trail running and winter sports like skiing, and snowboarding. The three towns and their communes which surround Mont Blanc are Courmayeur in Aosta Valley, Italy; and Saint-Gervais-les-Bains and Chamonix in Haute-Savoie, France. The latter town was the site of the first Winter Olympics."
+}

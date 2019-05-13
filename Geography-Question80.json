@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the most busiest (by passenger traffic) Air port in the World?",
+"answers":[
+	"Dubai International Airport",
+	"Beijing Capital International Airport",
+	"Hartsfield–Jackson Atlanta International Airport",
+	"London Heathrow Airport"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is the primary hub of Delta Air Lines",
+	"Located in south of downtown Atlanta, Georgia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hartsfield–Jackson Atlanta International Airport (ATL), also known as Atlanta Airport, Hartsfield, or Hartsfield–Jackson, is an international airport south of downtown Atlanta, Georgia.\nIt is named after former Atlanta mayors William B. Hartsfield and Maynard Jackson.\nAtlanta has been the world\'s busiest airport by passenger traffic since 1998, and by number of landings and take-offs every year since 2005 except 2014.\nHartsfield–Jackson is the primary hub of Delta Air Lines, and is a focus city for low-cost carriers Frontier Airlines, Southwest Airlines, and Spirit Airlines. With just over 1,000 flights a day to 225 domestic and international destinations, the Delta hub is the world\'s largest hub. Delta Air Lines flew 75.4% of the airport\'s passengers in February 2016, Southwest flew 9.2%, and American Airlines flew 2.5%."
+}
