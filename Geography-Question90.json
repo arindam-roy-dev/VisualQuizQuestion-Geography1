@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the main island of Japan?",
+"answers":[
+	"Honshu",
+	"Hokkaido",
+	"Shikoku",
+	"Kyushu"
+	],
+"correctAnswer":1,
+"hints":[
+	"Hokkaido is the second largest island of Japan",
+	"Shikoku is the smallest and least populous of the main islands",
+	"Kyushu is the third largest island of Japan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Honshu is the largest and most populous island of Japan, located south of Hokkaido across the Tsugaru Strait, north of Shikoku across the Inland Sea, and northeast of Kyushu across the Kanmon Straits.\nThe island separates the Sea of Japan, which lies to its north and west, from the North Pacific Ocean to its south and east.\nIt is the seventh-largest island in the world, and the second-most populous after the Indonesian island of Java.\nHonshu had a population of 104 million as of 2017, mostly concentrated in the coastal lowlands, notably in the Kantō plain where 25% of the total population resides in the Greater Tokyo Area.\nAs the historical center of Japanese cultural and political power, the island includes several past Japanese capitals, including Kyoto, Nara, and Kamakura. Much of the island\'s southern shore forms part of the Taiheiyō Belt, a megalopolis that spans several of the Japanese islands.\nMost of Japan\'s industry is located in a belt running along Honshu's southern coast, from Tokyo to Kyoto, Osaka, Nagoya, Kobe, and Hiroshima; by contrast, the economy along the northwestern Sea of Japan coast is largely based on fishing and agriculture.The island is linked to the other three major Japanese islands by a number of bridges and tunnels.\nIts climate is humid and mild."
+}

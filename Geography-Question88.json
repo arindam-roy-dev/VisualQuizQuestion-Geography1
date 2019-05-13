@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Cinder cone is a phenomenon related to What?",
+"answers":[
+	"Tides",
+	"Tropical Storms",
+	"Whirlpools",
+	"Volcanoes"
+	],
+"correctAnswer":4,
+"hints":[
+	"Most cinder cones have a Bowl Shaped crater at the Summit"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Cinder cones are the simplest type of volcano. They are built from particles and blobs of congealed lava ejected from a single vent.\nAs the gas-charged lava is blown violently into the air, it breaks into small fragments that solidify and fall as either cinders, clinkers, or scoria around the vent to form a cone that often is symmetrical; with slopes between 30–40°; and a nearly circular ground plan. Most cinder cones have a bowl-shaped crater at the summit."
+}

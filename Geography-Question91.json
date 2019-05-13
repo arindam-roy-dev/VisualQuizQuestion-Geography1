@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is world\'s Highest Mountain?",
+"answers":[
+	"Mount Kilimanjaro",
+	"Mount McKinley",
+	"Mount Elbrus",
+	"Mount Everest"
+	],
+"correctAnswer":3,
+"hints":[
+	"Located in the range of the Himalayas",
+	"The international border between Nepal and China runs across its summit point",
+	"Tenzing Norgay and Edmund Hillary made the first official ascent in 1953"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mount Everest, is Earth\n's highest mountain above sea level, located in the Mahalangur Himal sub range of the Himalayas. The international border between Nepal and China runs across its summit point.\nThe current official elevation of 8,848 m (29,029 ft).\nMount Everest attracts many climbers, some of them highly experienced mountaineers. There are two main climbing routes, one approaching the summit from the southeast in Nepal (known as the \"standard route\") and the other from the north in Tibet. While not posing substantial technical climbing challenges on the standard route, Everest presents dangers such as altitude sickness, weather, and wind, as well as significant hazards from avalanches and the Khumbu Icefall. As of 2017, nearly 300 people have died on Everest, many of whose bodies remain on the mountain.\nTenzing Norgay and Edmund Hillary made the first official ascent of Everest in 1953, using the southeast ridge route."
+}

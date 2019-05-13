@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which continent has the most countries?",
+"answers":[
+	"Asia",
+	"Africa",
+	"Europe",
+	"South America"
+	],
+"correctAnswer":2,
+"hints":[
+	"There are indeed 53 recognised countries in that continent"
+	"Scored Second in the list is Asia, with 48 countries"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"There are indeed 53 recognised countries, one disputed territory being Western Sahara and one country, Somaliland, that is not recognised. The figure 53 is still higher than the second continent by population, Europe.\nThe next in the list is Asia, with 48 countries."
+}

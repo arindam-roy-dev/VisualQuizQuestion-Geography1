@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What major river flows through the Grand Canyon?",
+"answers":[
+	"Mississippi River",
+	"Colorado River",
+	"Hudson River",
+	"Columbia River"
+	],
+"correctAnswer":2,
+"hints":[
+	"Grand Canyon is a Steep Sided Canyon in Arizona",
+	"Hudson River flows over Eastern side of USA; whereas Grand Canyon is located in Western Side"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Grand Canyon is a Steep Sided Canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile.\nNearly two billion years of Earth\'s geological history have been exposed as the Colorado River and its tributaries cut their channels through layer after layer of rock while the Colorado Plateau was uplifted.\nColorado River established its course through the area about 5 to 6 million years ago. Since that time, the Colorado River has driven the down-cutting of the tributaries and retreat of the cliffs, simultaneously deepening and widening the canyon."
+}

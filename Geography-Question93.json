@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the largest island in the Mediterranean Sea?",
+"answers":[
+	"Sardinia",
+	"Ibiza",
+	"Sicily",
+	"Corsica"
+	],
+"correctAnswer":3,
+"hints":[
+	"One of the 20 regions of Italy, One of the five Italian autonomous regions",
+	"Home to ancient sites, such as the Necropolis of Pantalica, the Valley of the Temples, Erice and Selinunte."
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Sicily is the largest island in the Mediterranean Sea and one of the 20 regions of Italy.\nIt is one of the five Italian autonomous regions, in Southern Italy along with surrounding minor islands, officially referred to as Regione Siciliana.\nSicily is located in the central Mediterranean Sea, south of the Italian Peninsula, from which it is separated by the narrow Strait of Messina.\nIts most prominent landmark is Mount Etna, the tallest active volcano in Europe, and one of the most active in the world, currently 3,329 m (10,922 ft) high. The island has a typical Mediterranean climate.\nSicily has a rich and unique culture, especially with regard to the arts, music, literature, cuisine, and architecture. It is also home to important archaeological and ancient sites, such as the Necropolis of Pantalica, the Valley of the Temples, Erice and Selinunte."
+}
