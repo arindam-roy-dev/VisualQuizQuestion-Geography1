@@ -1,6 +1,6 @@
 ﻿{
 "app":"Visual Quiz",
-"question":"Which of the following is a key geographical feature of Western Australia?",
+"question":"Which of the following is a key geographical feature of Eastern Australia?",
 "answers":[
 	"Valley of flowers",
 	"Coral Reefs",
@@ -16,5 +16,5 @@
 	"hints":1,
 	"hideAnswers":0
 	},
-"aboutAnswer":"The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 sq mi).\nThe reef is located in the Coral Sea, off the coast of Queensland, Australia. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms."
+"aboutAnswer":"The Great Barrier Reef is the world\'s largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 sq mi).\nThe reef is located in the Coral Sea, off the coast of Queensland, Australia. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms."
 }
