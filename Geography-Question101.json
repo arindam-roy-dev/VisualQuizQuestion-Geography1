@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the City?",
+"answers":[
+	"Dubai",
+	"Singapore",
+	"Kuala Lumpur",
+	"Osaka"
+	],
+"correctAnswer":1,
+"hints":[
+	"Located on the southeast coast of the Persian Gulf",
+	"It is a global city and the business hub of the Middle East"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Dubai is the largest and most populous city in the United Arab Emirates (UAE) and the capital of the Emirate of Dubai.\nLocated on the southeast coast of the Persian Gulf, Dubai is a global city and the business hub of the Middle East. It is also a major global transport hub for passengers and cargo. Oil revenue helped accelerate the development of the city, which was already a major mercantile hub.\nToday, less than 5% of the emirate\'s revenue comes from oil. A centre for regional and international trade since the early 20th century, Dubai\'s economy relies on revenues from trade, tourism, aviation, real estate, and financial services.\nDubai is situated on the Persian Gulf coast of the United Arab Emirates and is roughly at sea level (16 m or 52 ft above). The emirate of Dubai shares borders with Abu Dhabi in the south, Sharjah in the northeast, and the Sultanate of Oman in the southeast.\nDubai lies directly within the Arabian Desert. However, the topography of Dubai is significantly different from that of the southern portion of the UAE in that much of Dubai\'s landscape is highlighted by sandy desert patterns, while gravel deserts dominate much of the southern region of the country. The sand consists mostly of crushed shell and coral and is fine, clean and white. East of the city, the salt-crusted coastal plains, known as sabkha, give way to a north-south running line of dunes. Farther east, the dunes grow larger and are tinged red with iron oxide."
+}

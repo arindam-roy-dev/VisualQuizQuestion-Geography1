@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the City?",
+"answers":[
+	"Pattaya",
+	"Kuala Lumpur",
+	"Hong Kong",
+	"Seoul"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is bordered by the Titiwangsa Mountains in the east, several minor ranges in the north and the south and the Strait of Malacca in the west.",
+	"Petronas Twin Towers are the landmark of this city",
+	"It is the national capital and largest city in Malaysia"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Kuala Lumpur, officially the Federal Territory of Kuala Lumpur and commonly known as KL, is the national capital and largest city in Malaysia.\nIt covers an area of 243 km2 (94 sq mi) and has an estimated population of 1.73 million as of 2016.\nKuala Lumpur is the cultural, financial and economic centre of Malaysia. It is also home to the Parliament of Malaysia and the official residence of the Malaysian King, the Istana Negara.\nThe geography of Kuala Lumpur is characterised by the huge Klang Valley. The valley is bordered by the Titiwangsa Mountains in the east, several minor ranges in the north and the south and the Strait of Malacca in the west. Kuala Lumpur is a Malay term that translates to \"muddy confluence\" as it is located at the confluence of the Klang and Gombak rivers.\nProtected by the Titiwangsa Range in the east and Indonesia\'s Sumatra Island in the west, Kuala Lumpur is safe from strong winds and has a tropical rainforest climate, which is warm and sunny, along with abundant rainfall, especially during the northeast monsoon season from October to March.\nTemperatures tend to remain constant. Maximums hover between 32 and 35°C (90 and 95°F) and sometime hit 40°C (104.0°F), while minimums hover between 23.4 and 24.6°C (74.1 and 76.3°F) and have never fallen below 14.4°C (57.9°F). Kuala Lumpur typically receives minimum 2,600 mm (100 in) of rain annually; June and July are relatively dry, but even then rainfall typically exceeds 131 millimetres (5.2 in) per month."
+}

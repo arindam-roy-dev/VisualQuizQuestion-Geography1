@@ -1,20 +1,20 @@
 {
 "app":"Visual Quiz",
-"question":"What is the most busiest (by passenger traffic) Air port in the World?",
+"question":"What is the name of the City?",
 "answers":[
-	"Dubai International Airport",
-	"Beijing Capital International Airport",
-	"Hartsfield–Jackson Atlanta International Airport",
-	"London Heathrow Airport"
+	"Hong Kong",
+	"Singapore",
+	"Kuala Lumpur",
+	"Tokyo"
 	],
-"correctAnswer":3,
+"correctAnswer":4,
 "hints":[
-	"It is the primary hub of Delta Air Lines",
-	"Located in south of downtown Atlanta, Georgia"
+	"The Rainbow Bridge is situated in this city",
+	"It has served as the Japanese capital since 1869"
 	],
 "earn":{
 	"hints":1,
-	"hideAnswers":1
+	"hideAnswers":0
 	},
-"aboutAnswer":"Hartsfield–Jackson Atlanta International Airport (ATL), also known as Atlanta Airport, Hartsfield, or Hartsfield–Jackson, is an international airport south of downtown Atlanta, Georgia.\nIt is named after former Atlanta mayors William B. Hartsfield and Maynard Jackson.\nAtlanta has been the world\'s busiest airport by passenger traffic since 1998, and by number of landings and take-offs every year since 2005 except 2014.\nHartsfield–Jackson is the primary hub of Delta Air Lines, and is a focus city for low-cost carriers Frontier Airlines, Southwest Airlines, and Spirit Airlines. With just over 1,000 flights a day to 225 domestic and international destinations, the Delta hub is the world\'s largest hub. Delta Air Lines flew 75.4% of the airport\'s passengers in February 2016, Southwest flew 9.2%, and American Airlines flew 2.5%."
+"aboutAnswer":"Tokyo, officially Tokyo Metropolis, is one of the 47 prefectures of Japan. It has served as the Japanese capital since 1869.\nAs of 2018, the Greater Tokyo Area ranked as the most populous metropolitan area in the world. The urban area houses the seat of the Emperor of Japan, of the Japanese government and of the National Diet.\nTokyo forms part of the Kantō region on the southeastern side of Japan\'s main island, Honshu, and includes the Izu Islands and Ogasawara Islands.\nThe mainland portion of Tokyo lies northwest of Tokyo Bay and measures about 90 km (56 mi) east to west and 25 km (16 mi) north to south. The average elevation in Tokyo is 40 m (131 ft). Chiba Prefecture borders it to the east, Yamanashi to the west, Kanagawa to the south, and Saitama to the north. Mainland Tokyo is further subdivided into the special wards (occupying the eastern half) and the Tama area stretching westwards.\nThe region, like much of Japan, experiences a one-month seasonal lag, with the warmest month being August, which averages 26.4°C (79.5°F), and the coolest month being January, averaging 5.2°C (41.4°F)."
 }
