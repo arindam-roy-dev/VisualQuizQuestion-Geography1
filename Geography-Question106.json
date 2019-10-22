@@ -1,0 +1,22 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What name is given to the North-East part of China?",
+"answers":[
+	"Gansu",
+	"Manchuria",
+	"Qinghai",
+	"Tibet"
+	],
+"correctAnswer":2,
+"hints":[
+	"Divided between China and Russia",
+	"It consists of three provinces of Heilongjiang, Jilin, and Liaoning in China",
+	"khanate Later Jin (1616–1636), the Manchu state, which became the Qing Empire",
+	"The northeastern provinces of the Qing Empire initially reserved for use by the Manchu people"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Manchuria is an exonym for several large overlapping historical and geographic regions in Northeast Asia.\nGreater Manchuria, the area of northeast Asia which served as the homeland of the Jurchens who became the Manchus, now divided between China (\"Inner Manchuria\") and Russia (\"Outer Manchuria\"). This is Northeast China, and consists of three provinces of Heilongjiang, Jilin, and Liaoning in China.\nFirst used in the 17th century by the Japanese, it remains a common term elsewhere but is deprecated within China, where it is associated with ethnic chauvinism and Japanese imperialism.\nNortheastern China is now predominantly Han Chinese and is considered the homeland of several groups besides the Manchus, including the Koreans, the Xianbei, the Shiwei, and the Khitans. The area is also home to many Mongols and, in Russia, Russians.\nManchuria consists mainly of the northern side of the funnel-shaped North China Craton, a large area of tilled and overlaid Precambrian rocks spanning 100 million hectares.\nThe North China Craton was an independent continent before the Triassic period and is known to have been the northernmost piece of land in the world during the Carboniferous. The Khingan Mountains in the west are a Jurassic mountain range formed by the collision of the North China Craton with the Siberian Craton, which marked the final stage of the formation of the supercontinent Pangaea."
+}

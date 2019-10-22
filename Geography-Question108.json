@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What city was once called New Amsterdam?",
+"answers":[
+	"Singapore",
+	"Bankok",
+	"Las Vegas",
+	"New York"
+	],
+"correctAnswer":4,
+"hints":[
+	"It was a 17th-century Dutch settlement established at the southern tip of Manhattan Island",
+	"In 1664 the English took over New Amsterdam and renamed it after the Duke of York (later James II & VII)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"New Amsterdam was a 17th-century Dutch settlement established at the southern tip of Manhattan Island that served as the seat of the colonial government in New Netherland.\nThe \"factorij\" became a settlement outside Fort Amsterdam. The fort was situated on the strategic southern tip of the island of Manhattan and was meant to defend the fur trade operations of the Dutch West India Company in the North River (Hudson River). In 1624, it became a provincial extension of the Dutch Republic and was designated as the capital of the province in 1625.\nBy 1655, the population of New Netherland had grown to 2,000 people, with 1,500 living in New Amsterdam. By 1664, the population had skyrocketed to almost 9,000 people in New Netherland, 2,500 of whom lived in New Amsterdam, 1,000 lived near Fort Orange, and the remainder in other towns and villages.\nIn 1664 the English took over New Amsterdam and renamed it New York after the Duke of York (later James II & VII). After the Second Anglo-Dutch War of 1665–1667, England and the United Provinces of the Netherlands agreed to the status quo in the Treaty of Breda.\nThe English kept the island of Manhattan, the Dutch giving up their claim to the town and the rest of the colony, while the English formally abandoned Surinam in South America, and the island of Run in the East Indies to the Dutch, confirming their control of the valuable Spice Islands. Today much of what was once New Amsterdam is in New York City."
+}
