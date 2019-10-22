@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"In which country would you find Mount Kilimanjaro?",
+"answers":[
+	"Republic of the Congo",
+	"Uganda",
+	"Kenya",
+	"Tanzania"
+	],
+"correctAnswer":4,
+"hints":[
+	"It second largest country in the Middle East and the 17th largest in the world",
+	"It is a country in Western Asia",
+	"Tehran is the Capital City"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Mount Kilimanjaro or just Kilimanjaro with its three volcanic cones, Kibo, Mawenzi, and Shira, is a dormant volcano in Tanzania.\nIt is the highest mountain in Africa, with its summit about 4,900 metres (16,100 ft) from its base, and 5,895 metres (19,341 ft) above sea level. The first people known to have reached the summit of the mountain were Hans Meyer and Ludwig Purtscheller, in 1889.\nThe mountain is part of Kilimanjaro National Park and is a major climbing destination. The mountain has been the subject of many scientific studies because of its shrinking glaciers and disappearing ice fields.\nTanzania, officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region. It borders Uganda to the north; Kenya to the northeast; Comoro Islands at the Indian Ocean to the east; Mozambique and Malawi to the south; Zambia to the southwest; and Rwanda, Burundi, and the Democratic Republic of the Congo to the west. Mount Kilimanjaro, Africa\'s highest mountain, is in northeastern Tanzania."
+}

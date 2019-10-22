@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the capital of Afganistan?",
+"answers":[
+	"Tehran",
+	"Islamabad",
+	"Kabul",
+	"Baghdad"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is located high up in a narrow valley between the Hindu Kush mountains",
+	"Baghdad is the capital of Iraq",
+	"Tehran is the capital of Iran",
+	"Islamabad is the capital of Pakistan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Kabul is the capital and largest city of Afghanistan, located in the eastern section of the country. It is also a municipality, forming part of the greater Kabul Province.\nAccording to estimates in 2019, the population of Kabul is 4.114 million, which includes all the major ethnic groups of Afghanistan. Rapid urbanization had made Kabul the world\'s 75th largest city.\nThe city is said to be over 3,500 years old, mentioned since at least the time of the Achaemenid Empire. It is at a strategic location along the trade routes of South and Central Asia, and a key location of the ancient Silk Road.\nIn the early 19th century, the British occupied the city, but after establishing foreign relations, they were compelled to withdraw all forces from Afghanistan. The city was occupied by the Soviets in 1979 but they too abandoned it after the 1988 Geneva Accords were signed. A civil war in the 1990s between various rebel groups destroyed much of the city, resulting in many casualties.\nKabul has a cold semi-arid climate with precipitation concentrated in the winter (almost exclusively falling as snow) and spring months. Temperatures are cool compared to much of Southwest Asia, mainly due to the high elevation of the city. Summer has very low humidity, providing relief from the heat. Autumn features warm afternoons and sharply cooler evenings. Winters are cold, with a January daily average of −2.3°C (27.9°F). Spring is the wettest time of the year. Sunny conditions dominate year-round. The annual mean temperature is 12.1 °C (53.8°F), much lower than the other large cities of Afghanistan."
+}

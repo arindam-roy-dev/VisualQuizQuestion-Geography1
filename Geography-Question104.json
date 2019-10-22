@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What country is also known as Persia?",
+"answers":[
+	"Iran",
+	"Iraq",
+	"Greece",
+	"Egypt"
+	],
+"correctAnswer":1,
+"hints":[
+	"It second largest country in the Middle East and the 17th largest in the world",
+	"It is a country in Western Asia",
+	"Tehran is the Capital City"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Historically, Iran has been referred to as Persia by the West, due mainly to the writings of Greek historians who referred to all of Iran as Persís meaning \"land of the Persians\", while Persis itself was one of the provinces of ancient Iran that is today defined as Fars.\nAs the most extensive interaction the Ancient Greeks had with any outsider was with the Persians, the term persisted, even long after the Greco-Persian Wars (499–449 BC).\nIn 1935, Reza Shah requested the international community to refer to the country by its native name, Iran, effective March 22 that year.\nOpposition to the name change led to the reversal of the decision in 1959, and Professor Ehsan Yarshater, editor of Encyclopædia Iranica, propagated a move to use Persia and Iran interchangeably.\nToday, both Iran and Persia are used in cultural contexts, while Iran remains irreplaceable in official state contexts."
+}
