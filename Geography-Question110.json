@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the largest country in the world?",
+"answers":[
+	"Russia",
+	"Canada",
+	"United States",
+	"China"
+	],
+"correctAnswer":1,
+"hints":[
+	"China is the 4th largest country",
+	"United States is the 3th largest country",
+	"Canada is the 2th largest country"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Russia is a transcontinental country in Eastern Europe and North Asia. At 17,125,200 square kilometres (6,612,100 sq mi), it is, by a considerable margin, the largest country in the world by area, covering more than one-eighth of the Earth\'s inhabited land area, and the ninth most populous, with about 146.79 million people as of 2019, including Crimea. About 77% of the population live in the western, European part of the country.\nRussia\'s capital, Moscow, is one of the largest cities in the world and the largest city in Europe; other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg and Nizhny Novgorod. Extending across the entirety of Northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms.\nFrom northwest to southeast, Russia shares land borders with Norway, Finland, Estonia, Latvia, Lithuania and Poland (both with Kaliningrad Oblast), Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia and North Korea. It shares maritime borders with Japan by the Sea of Okhotsk and the U.S. state of Alaska across the Bering Strait. However, Russia recognises two more countries that border it, Abkhazia and South Ossetia, both of which are internationally recognized as parts of Georgia."
+}

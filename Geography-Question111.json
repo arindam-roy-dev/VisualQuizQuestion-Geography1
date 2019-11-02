@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Lowest Lake level in the world?",
+"answers":[
+	"Caspian Sea",
+	"Dead Sea",
+	"Titicaca",
+	"Lake Superior"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is one of the world\'s saltiest bodies of water",
+	"It is bordered by Jordan and Israel",
+	"Titicaca is on the border of Bolivia and Peru",
+	"Lake Superior is on the border of Canada and United States"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Dead Sea is a salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It lies in the Jordan Rift Valley, and its main tributary is the Jordan River.\nIts surface and shores are 430.5 metres (1,412 ft) below sea level, Earth\'s lowest elevation on land.\nIt is 304 m (997 ft) deep, the deepest hypersaline lake in the world. With a salinity of 342 g/kg, or 34.2% (in 2011).\nIt is one of the world\'s saltiest bodies of water – 9.6 times as salty as the ocean – and has a density of 1.24 kg/litre, which makes swimming similar to floating.\nThis salinity makes for a harsh environment in which plants and animals cannot flourish, hence its name. The Dead Sea\'s main, northern basin is 50 kilometres (31 mi) long and 15 kilometres (9 mi) wide at its widest point.\nThe Dead Sea has attracted visitors from around the Mediterranean Basin for thousands of years. It was one of the world\'s first health resorts (for Herod the Great), and it has been the supplier of a wide variety of products, from asphalt for Egyptian mummification to potash for fertilisers.\nThe recession of the Dead Sea has begun causing problems, and multiple canals and pipelines proposals exist to reduce its recession. One of these proposals is the Red Sea–Dead Sea Water Conveyance project, carried out by Jordan, which will provide water to neighbouring countries, while the brine will be carried to the Dead Sea to help stabilise its water level."
+}

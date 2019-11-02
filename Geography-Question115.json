@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the longest river in Europe?",
+"answers":[
+	"Danube River",
+	"Rhine River",
+	"Volga River",
+	"Seine River"
+	],
+"correctAnswer":3,
+"hints":[
+	"The river flows through central Russia and into the Caspian Sea",
+	"Eleven of the twenty largest cities of Russia, including the capital, Moscow, are located in it's drainage basin",
+	"It is the national river of Russia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Volga is the longest river in Europe with a catchment area of 1,350,000 square kilometres. It is also Europe\'s largest river in terms of discharge and drainage basin.\nThe river flows through central Russia and into the Caspian Sea, and is widely regarded as the national river of Russia, being an important river for mainly Slavic, Turkic people, Iranian cultures such as Scythians and Sarmatians, Finno-Ugric and Germanic people (Vikings and Goths), Greeks and cultures of Byzantine and Sasanian Empires.\nDue to its geographical situation the Volga played an important role in the movement of people between east and west (from Asia to Europe) as well as south and north. The river flows in Russia through forests, forest-steppes and steppes.\nEleven of the twenty largest cities of Russia, including the capital, Moscow, are located in the Volga\'s drainage basin.\nSome of the largest reservoirs in the world are located along the Volga. The river has a symbolic meaning in Russian culture and is often referred to as Волга-матушка Volga-Matushka (Mother Volga) in Russian literature and folklore."
+}

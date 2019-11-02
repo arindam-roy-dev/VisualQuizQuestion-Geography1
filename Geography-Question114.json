@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"This is National flag of which country?",
+"answers":[
+	"Poland",
+	"China",
+	"Nepal",
+	"Canada"
+	],
+"correctAnswer":4,
+"hints":[
+	"It is not an asian country",
+	"It is not an european country"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The flag of Canada, often referred to as the Canadian flag, or unofficially as the Maple Leaf, is the national flag of Canada which consists of a red field with a white square at its centre in the ratio of 1:2:1, in the middle of which is featured a stylized, red, 11-pointed maple leaf charged in the centre.\nIt is the first flag approved by Parliament for use as the country\'s national flag.\nIn 1964, Prime Minister Lester B. Pearson formed a committee to resolve the ongoing issue of the lack of an official Canadian flag, sparking a serious debate about a flag change to replace the Union Flag. Out of three choices, the maple leaf design by George Stanley, based on the flag of the Royal Military College of Canada, was selected.\nThe flag made its first official appearance on February 15, 1965; the date is now celebrated annually as National Flag of Canada Day."
+}
