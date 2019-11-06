@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What was the former name of the country known since 1989 as Myanmar?",
+"answers":[
+	"Burma",
+	"Abyssinia",
+	"Basutoland",
+	"Persia"
+	],
+"correctAnswer":1,
+"hints":[
+	"Persia is the formar name of Iran",
+	"Basutoland is the former name of Lesotho",
+	"Abyssinia is the former name of Ethiopia"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Myanmar - officially the Republic of the Union of Myanmar, and also known as Burma, is a country in Southeast Asia. Myanmar is bordered by India and Bangladesh to its west, Thailand and Laos to its east and China to its north and northeast.\nMyanmar is the largest of the mainland Southeast Asian states.\nBoth the names Myanmar and Burma derive from the earlier Burmese Myanma, an ethnonym for the majority Bamar ethnic group, of uncertain etymology. The terms are also popularly thought to derive from Brahma Desha after Brahma.\nIn 1989, the military government officially changed the English translations of many names dating back to Burma's colonial period or earlier, including that of the country itself: Burma became Myanmar. The renaming remains a contested issue. Many political and ethnic opposition groups and countries continue to use Burma because they do not recognise the legitimacy of the ruling military government or its authority to rename the country.\nn English, the country is popularly known as either Burma or Myanmar. Both these names are derived from the name of the majority Burmese Bamar ethnic group. Myanmar is considered to be the literary form of the name of the group, while Burma is derived from \"Bamar\", the colloquial form of the group\'s name. Depending on the register used, the pronunciation would be Bama. The name Burma has been in use in English since the 18th century."
+}
