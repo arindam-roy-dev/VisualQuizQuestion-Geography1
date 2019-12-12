@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the newest internationally recognized country in the world?",
+"answers":[
+	"South Sudan",
+	"Bougainville",
+	"Kosovo",
+	"Montenegro and Serbia"
+	],
+"correctAnswer":1,
+"hints":[
+	"The single nation of Serbia and Montenegro, formed after the collapse of Yugoslavia in 1991, finally changed  into the two separate states of Serbia and Montenegro in 2006.",
+	"Kosovo declared independence from Serbia in 2008",
+	"South Sudan declared independence from Sudan in 2011",
+	"The region of Bougainville, a collection of islands in the South Pacific, became independent from Papua New Guinea in 2019"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The region of Bougainville, a collection of islands in the South Pacific, has voted overwhelmingly to become independent from Papua New Guinea, aiming to become the world\’s newest nation.\nIn a referendum linked to a peace agreement that ended a civil war between separatists and Papua New Guinea security forces nearly 20 years ago, nearly 98 percent of those who voted supported becoming an independent nation.\nThe interim capital is Buka, though it is expected that Arawa will become the permanent capital in the future.\nIn 2011, the region had an estimated population of 250,000 people. The lingua franca of Bougainville is Tok Pisin, while a variety of Austronesian and non-Austronesian languages are also spoken. The region includes several Polynesian outliers where Polynesian languages are spoken. The islands of Bougainville and Buka are geographically part of the Solomon Islands archipelago, but are politically separate from the independent country of Solomon Islands. Historically the region was known as North Solomons.\nBougainville has been inhabited by humans for at least 29,000 years. During the colonial period the region was occupied and administered by the Germans, Australians, Japanese, and Americans for various periods. The name of the region originates from French admiral Louis Antoine de Bougainville, who reached it in 1768.\nBougainvillean separatism dates to the 1960s, and the Republic of North Solomons was declared shortly before the independence of Papua New Guinea in 1975; it was subsumed into PNG the following year. Conflict over the Panguna mine became the primary trigger for the Bougainville Civil War (1988–1998), which resulted in the deaths of up to 20,000 people. A peace agreement resulted in the creation of the Autonomous Bougainville Government.\nIn 2019, a non-binding independence referendum was held with the vast majority preferring independence to autonomy within Papua New Guinea."
+}
