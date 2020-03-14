@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which country consists of 7,641 islands?",
+"answers":[
+	"Indonesia",
+	"Papua New Guinea",
+	"Philippines",
+	"Malaysia"
+	],
+"correctAnswer":3,
+"hints":[
+	"The capital city is Manila",
+	"Indonesia is situated to the south",
+	"Malaysia and Brunei is situated to the southwest"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas and Mindanao.\nThe capital city of the Philippines is Manila and the most populous city is Quezon City, both part of Metro Manila. Bounded by the South China Sea on the west, the Philippine Sea on the east and the Celebes Sea on the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest.\nThe Philippines\' location on the Pacific Ring of Fire and close to the equator makes the Philippines prone to earthquakes and typhoons, but also endows it with abundant natural resources and some of the world\'s greatest biodiversity. The Philippines is the world\'s 5th largest island country with an area of 300,000 km2 (120,000 sq mi).\nAs of 2015, it had a population of at least 100 million. As of January 2018, it is the eighth-most populated country in Asia and the 12th most populated country in the world."
+}
