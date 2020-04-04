@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of world\'s largest island?",
+"answers":[
+	"Greenland",
+	"New Guinea",
+	"Borneo",
+	"Madagascar"
+	],
+"correctAnswer":1,
+"hints":[
+	"It is an autonomous territory within the Kingdom of Denmark",
+	"New Guinea is the largest island wholly or partly within the Southern Hemisphere and Oceania",
+	"Borneo is the third-largest island in the world and the largest in Asia",
+	"Madagascar is the fourth largest island and the 2nd largest island country in the world"
+	]
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Greenland is the world\'s largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago.\nAs an island, Greenland has no land boundaries and 44,087 km of coastline. A sparse population is confined to small settlements along certain sectors of the coast. Greenland possesses the world\'s second largest ice sheet.\nIt is an autonomous territory within the Kingdom of Denmark. Though physiographically a part of the continent of North America, Greenland has been politically and culturally associated with Europe (specifically Norway and Denmark, the colonial powers, as well as the nearby island of Iceland) for more than a millennium. The majority of its residents are Inuit, whose ancestors migrated from Alaska through Northern Canada, gradually settling across the island by the 13th century.\nThe climate is arctic to subarctic, with cool summers and cold winters. The terrain is mostly a flat but gradually sloping icecap that covers all land except for a narrow, mountainous, barren, rocky coast. The lowest elevation is sea level and the highest elevation is the summit of Gunnbjørn Fjeld, the highest point in the Arctic at 3,694 meters (12,119 ft). The northernmost point of the island of Greenland is Cape Morris Jesup, discovered by Admiral Robert Peary in 1900.\nNatural resources include zinc, lead, iron ore, coal, molybdenum, gold, platinum, uranium, hydropower and fish.\nThe Greenland ice sheet is 3 kilometers (1.9 mi) thick and broad enough to blanket an area the size of Mexico. The ice is so massive that its weight presses the bedrock of Greenland below sea level and is so all-concealing that not until recently did scientists discover Greenland's Grand Canyon or the possibility that Greenland might actually be three islands.\nIf the ice melted, the interior bedrock below sea level would be covered by water. It is not clear whether this water would be at sea level or a lake above sea level. If it would be at sea level it could connect to the sea at Ilulissat Icefjord, in Baffin Bay and near Nordostrundingen, creating three large islands. But it is most likely that it would be a lake with one drain.\nIt is thought that before the Ice Age, Greenland had mountainous edges and a lowland (and probably very dry) center which drained to the sea via one big river flowing out westwards, past where Disko Island is now.\nResearchers at NASA's Jet Propulsion Laboratory and the University of Kansas reported in February 2006 that the glaciers are melting twice as fast as they were five years ago. By 2005, Greenland was beginning to lose more ice volume than anyone expected – an annual loss of up to 52 cubic miles or 217 cubic kilometres per year. Between 1991 and 2006, monitoring of the weather at one location (Swiss Camp) found that the average winter temperature had risen almost 10 °F (5.6 °C)."
+}

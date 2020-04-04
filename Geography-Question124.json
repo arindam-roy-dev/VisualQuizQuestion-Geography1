@@ -1,0 +1,23 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the world\'s most ancient forest?",
+"answers":[
+	"Amazon Rainforest",
+	"Taman Negara",
+	"Daintree Rainforest",
+	"Borneo Lowland Rainforest"
+	],
+"correctAnswer":3,
+"hints":[
+	"Situated in the Australia",
+	"It is nearly 180 million years old",
+	"Borneo Lowland Rainforest is nearly 140 million years old",
+	"Taman Negara is nearly 130 million years old",
+	"The Amazon Rainforest is 55 million years old"
+	]
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Daintree Rainforest is a region on the northeast coast of Queensland, Australia, north of Mossman and Cairns. At around 1,200 square kilometres, the Daintree is a part of the largest continuous area of tropical rainforest on the Australian continent.\nThe Daintree Rainforest is a part of the Wet Tropics of Queensland Rainforest, that spans across the Cairns Region. The Wet Tropics Rainforest (that the Daintree is a part of) is the oldest continually surviving tropical rainforest in the world. Along the coastline north of the Daintree River, tropical forest grows right down to the edge of the sea.\nThe Daintree is one of the oldest forests in the world, dating back to prehistoric times. Outside of the history with the indigenous Aborigines, Australia wasn’t even officially discovered by the European world until the 1600s. Due to the climate of the region and what we know about Earth\’s history, then, this forest dates back anywhere between 100 – 180 million years.\nThe Daintree Rainforest is the largest rainforest on the Australian continent and contains over 12,000 species of insects alone. It is also considered a 3,000 species of plants, many of which are classified as rare or threatened. Due to its unique aspects, such as the presence of tree kangaroos and proximity to the Great Barrier Reef, this remains a popular tourist attraction.\nFrom a total of 19 primitive flowering plant families on Earth, 12 families are represented in the Daintree region making the highest concentration of these plants worldwide. These ancient plant families may be helpful for discerning the origins of the flowering plants."
+}
