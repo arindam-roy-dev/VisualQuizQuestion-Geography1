@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which City is this?",
+"answers":[
+	"Venice",
+	"Sydney",
+	"London",
+	"Vancouver"
+	],
+"correctAnswer":1,
+"hints":[
+	"The city is considered to have been the first real international financial center, emerging in the 9th century and reaching its greatest prominence in the 14th century",
+	"It is situated on a group of 118 small islands that are separated by canals and linked by over 400 bridges",
+	"An European city"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Venice is a city in northeastern Italy and the capital of the Veneto region. It is situated on a group of 118 small islands that are separated by canals and linked by over 400 bridges. The islands are located in the shallow Venetian Lagoon, an enclosed bay that lies between the mouths of the Po and the Piave rivers (more exactly between the Brenta and the Sile).\nTogether with Padua and Treviso, the city is included in the Padua-Treviso-Venice Metropolitan Area (PATREVE), which is considered a statistical metropolitan area, with a total population of 2.6 million.\nThe name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city was historically the capital of the Republic of Venice for a millennium and more, from 697 to 1797. It was a major financial and maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as an important center of commerce—especially silk, grain, and spice, and of art from the 13th century to the end of the 17th. The city-state of Venice is considered to have been the first real international financial center, emerging in the 9th century and reaching its greatest prominence in the 14th century. This made Venice a wealthy city throughout most of its history.\nAfter the Napoleonic Wars and the Congress of Vienna, the Republic was annexed by the Austrian Empire, until it became part of the Kingdom of Italy in 1866, following a referendum held as a result of the Third Italian War of Independence.\nVenice has a mid-latitude, four season humid subtropical climate (Cfa), with cool winters and hot, humid summers. The 24-hour average temperature in January is 3.3 °C (37.9 °F), and for July this figure is 23.0 °C (73.4 °F). Precipitation is spread relatively evenly throughout the year, and averages 748 millimetres (29.4 in); snow isn\'t a rarity between late November and early March. During the most severe winters, the canals and parts of the lagoon can freeze, but with the warming trend of the past 30-40 years, the occurrence has become rarer."
+}

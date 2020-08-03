@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the national language of ?",
+"answers":[
+	"A Language",
+	"An Island",
+	"A Country",
+	"A River"
+	],
+"correctAnswer":2,
+"hints":[
+	"Located in Eastern Africa",
+	"Asmara is Capital"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Eritrea officially the State of Eritrea, is a country in Eastern Africa, with its capital at Asmara. It is bordered by Sudan in the west, Ethiopia in the south, and Djibouti in the southeast. The northeastern and eastern parts of Eritrea have an extensive coastline along the Red Sea.\nThe nation has a total area of approximately 117,600 km2 (45,406 sq mi), and includes the Dahlak Archipelago and several of the Hanish Islands.\nEritrea is a multi-ethnic country, with nine recognized ethnic groups in its population of around five and a half million. Eritrea has nine national languages which are Tigrinya language, Tigre, Afar, Beja, Bilen, Kunama, Nara, Saho. Tigrinya, Arabic, and English serve as the three working languages. Most residents speak languages from the Afroasiatic family, either of the Ethiopian Semitic languages or Cushitic branches.\nIn 1958, a group of Eritreans founded the Eritrean Liberation Movement (ELM). The organization mainly consisted of Eritrean students, professionals and intellectuals. It engaged in clandestine political activities intended to cultivate resistance to the centralizing policies of the imperial Ethiopian state. On 1 September 1961, the Eritrean Liberation Front (ELF), under the leadership of Hamid Idris Awate, waged an armed struggle for independence. In 1962, Emperor Haile Selassie unilaterally dissolved the Eritrean parliament and annexed the territory.\nThe ensuing Eritrean War of Independence went on for 30 years against successive Ethiopian governments until 1991, when the Eritrean People\'s Liberation Front (EPLF), a successor of the ELF, defeated the Ethiopian forces in Eritrea and helped a coalition of Ethiopian rebel forces take control of the Ethiopian capital Addis Ababa."
+}
