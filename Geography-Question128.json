@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this group of artificial islands?",
+"answers":[
+	"Palm Jumeirah",
+	"Peberholm",
+	"Danube Island",
+	"The World Islands"
+	],
+"correctAnswer":4,
+"hints":[
+	"Located in the waters of the Persian Gulf",
+	"Near to Palm Jumeirah",
+	"Located off the coast of Dubai, United Arab Emirates",
+	"Artificial islands constructed in the shape of a world map"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The World or The World Islands, (Arabic: جزر العالم; Juzur al-Ālam) is an archipelago of small artificial islands constructed in the shape of a world map, located in the waters of the Persian Gulf, 4.0 kilometres (2.5 mi) off the coast of Dubai, United Arab Emirates.\nThe World islands are composed mainly of sand dredged from Dubai\'s shallow coastal waters, and are one of several artificial island developments in Dubai.\nThe World\'s developer is Nakheel Properties, and the project was originally conceived by Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai. The construction was done by two Dutch (joint venture) specialist companies, Van Oord and Boskalis. The same companies also created the Palm Jumeirah.\nConstruction of the 300 islands began in 2003, before halting due to the 2008 financial crisis. Though 60 percent of the islands were sold to private contractors in 2008, development on most of the islands has failed to initiate. As of July 2012, Lebanon Island was developed and was the only island that had so far been developed commercially, being used for private corporate events and public parties.\nAs of late 2013, only two of the islands had been developed. In January 2014, Kleindienst Group announced the launch of \"The Heart of Europe\" project; by February 2014, one of Kleindienst Group\'s brands—JK Properties—announced in their monthly newsletter that the project was \"well underway\". The first of these series of islands will be Europe, Sweden and Germany with development led by Kleindienst Group.\nThe World was supposed to be serviced by four major transportation hubs linked by waterways. Land parcels are supposedly zoned for various uses: estate, mid density, high density, resorts and commercial. A Dubai Infinity Holdings construction planner has stated that developers have been negotiating with Nakheel about temporary siting of a cement batching plant on one of the islands to supply subdivided construction.\nThe plan was for utilities to be routed under water, with water plants at each of the hubs pumping fresh water to the islands. Power was to be supplied by the Dubai Grid and distributed through underwater cables, however as of February 2015 no cables had been laid, so that developers currently have to provide their own power from diesel generators. Wastewater and refuse systems are an individual concern for each island.\nNakheel Group is itself further developing a resort named Coral Island over 20 islands that make up the North American part of The World. The low-rise development will include a marina and hotel village. The second largest confirmed development is the purchase of 14 islands that make up Australia and New Zealand by Investment Dar of Kuwait. The islands are being terraformed to be developed as a resort named OQYANA."
+}

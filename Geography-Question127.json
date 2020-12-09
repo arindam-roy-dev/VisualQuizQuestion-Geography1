@@ -1,20 +1,21 @@
 {
 "app":"Visual Quiz",
-"question":"What is the national language of ?",
+"question":"Where is the Tigris River?",
 "answers":[
-	"A Language",
-	"An Island",
-	"A Country",
-	"A River"
+	"Turkey, Syria, Iraq",
+	"Brazil, Argentina",
+	"Russia",
+	"Australia"
 	],
-"correctAnswer":2,
+"correctAnswer":1,
 "hints":[
-	"Located in Eastern Africa",
-	"Asmara is Capital"
+	"The river flows through Mesopotamia",
+	"Baghdad stands on the banks of the Tigris",
+	"The river flows into the Persian Gulf"
 	],
 "earn":{
-	"hints":1,
-	"hideAnswers":2
+	"hints":0,
+	"hideAnswers":1
 	},
-"aboutAnswer":"Eritrea officially the State of Eritrea, is a country in Eastern Africa, with its capital at Asmara. It is bordered by Sudan in the west, Ethiopia in the south, and Djibouti in the southeast. The northeastern and eastern parts of Eritrea have an extensive coastline along the Red Sea.\nThe nation has a total area of approximately 117,600 km2 (45,406 sq mi), and includes the Dahlak Archipelago and several of the Hanish Islands.\nEritrea is a multi-ethnic country, with nine recognized ethnic groups in its population of around five and a half million. Eritrea has nine national languages which are Tigrinya language, Tigre, Afar, Beja, Bilen, Kunama, Nara, Saho. Tigrinya, Arabic, and English serve as the three working languages. Most residents speak languages from the Afroasiatic family, either of the Ethiopian Semitic languages or Cushitic branches.\nIn 1958, a group of Eritreans founded the Eritrean Liberation Movement (ELM). The organization mainly consisted of Eritrean students, professionals and intellectuals. It engaged in clandestine political activities intended to cultivate resistance to the centralizing policies of the imperial Ethiopian state. On 1 September 1961, the Eritrean Liberation Front (ELF), under the leadership of Hamid Idris Awate, waged an armed struggle for independence. In 1962, Emperor Haile Selassie unilaterally dissolved the Eritrean parliament and annexed the territory.\nThe ensuing Eritrean War of Independence went on for 30 years against successive Ethiopian governments until 1991, when the Eritrean People\'s Liberation Front (EPLF), a successor of the ELF, defeated the Ethiopian forces in Eritrea and helped a coalition of Ethiopian rebel forces take control of the Ethiopian capital Addis Ababa."
+"aboutAnswer":"The Tigris is the eastern of the two great rivers that define Mesopotamia, the other being the Euphrates. The river flows south from the mountains of southeastern Turkey through Iraq and empties into the Persian Gulf.\nThe Tigris is 1,750 km long, rising in the Taurus Mountains of eastern Turkey about 25 km southeast of the city of Elazig and about 30 km from the headwaters of the Euphrates. The river then flows for 400 km through Turkish Kurdistan before becoming part of the Syria-Turkey border. This stretch of 44 km is the only part of the river that is located in Syria.\nSome of its affluences are Garzan, Anbarçayi, Batman, and the Great and the Little Zab.\nThe Tigris has long been an important transport route in a largely desert country. Shallow-draft vessels can go as far as Baghdad, but rafts are needed for transport upstream to Mosul.\nBaghdad, the capital of Iraq, stands on the banks of the Tigris. The port city of Basra straddles the Shatt al-Arab. In ancient times, many of the great cities of Mesopotamia stood on or near the Tigris, drawing water from it to irrigate the civilization of the Sumerians. Notable Tigris-side cities included Nineveh, Ctesiphon, and Seleucia, while the city of Lagash was irrigated by the Tigris via a canal dug around 2900 B.C.\nThe Tigris is heavily dammed in Iraq and Turkey to provide water for irrigating the arid and semi-desert regions bordering the river valley. Damming has also been important for averting floods in Iraq, to which the Tigris has historically been notoriously prone following April melting of snow in the Turkish mountains."
 }

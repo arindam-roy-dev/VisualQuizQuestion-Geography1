@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is Principality of Monaco?",
+"answers":[
+	"A Language",
+	"An Island",
+	"A Country",
+	"A River"
+	],
+"correctAnswer":3,
+"hints":[
+	"Located in in Western Europe",
+	"It is bordered by France to the north, east and west, and by the Mediterranean Sea to the south",
+	"It is widely recognised for being one of the most expensive and wealthiest places in the world",
+	"The official language is French, although Monégasque, English and Italian are spoken and understood by a sizeable group"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Monaco, officially the Principality of Monaco, is a sovereign city-state, country, and microstate on the French Riviera in Western Europe. It is bordered by France to the north, east and west, and by the Mediterranean Sea to the south.\nThe principality is home to 38,682 residents and is widely recognised for being one of the most expensive and wealthiest places in the world.\nThe official language is French, although Monégasque, English and Italian are spoken and understood by a sizeable group.\nWith an area of 2.1 km2 (0.81 sq mi), it is one of the smallest sovereign states in Europe and the second-smallest in the world, after the Vatican City. Its 19,009 inhabitants per square kilometre (49,230/sq mi), make it the most densely-populated sovereign state in the world.\nThe principality is governed under a form of constitutional monarchy, with Prince Albert II as head of state. Although Prince Albert II is a constitutional monarch, he wields immense political power. The House of Grimaldi has ruled Monaco, with brief interruptions, since 1297.\nThe state\'s sovereignty was officially recognised by the Franco-Monegasque Treaty of 1861, with Monaco becoming a full United Nations voting member in 1993. Despite Monaco\'s independence and separate foreign policy, its defence is the responsibility of France. However, Monaco does maintain two small military units.\nEconomic development was spurred in the late 19th century with the opening of the country\'s first casino, Monte Carlo, and a railway connection to Paris. Since then, Monaco\'s mild climate, scenery, and gambling facilities have contributed to the principality\'s status as a tourist destination and recreation centre for the rich.\nIn more recent years, Monaco has become a major banking centre and has sought to diversify its economy into the services sector and small, high-value-added, non-polluting industries. The state has no income tax, low business taxes, and is well known for being a tax haven. In 2014, it was noted that about 30% of the population was made up of millionaires.\nMonaco is not formally a part of the European Union (EU), but it participates in certain EU policies, including customs and border controls. Through its relationship with France, Monaco uses the euro as its sole currency. Monaco joined the Council of Europe in 2004, and is a member of the Organisation Internationale de la Francophonie (OIF)."
+}
