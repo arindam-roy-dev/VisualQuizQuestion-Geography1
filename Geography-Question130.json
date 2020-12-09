@@ -1,11 +1,11 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"What is Principality of Monaco?",
 "answers":[
-	"A Language",
-	"An Island",
+	"A Sea",
+	"A City",
 	"A Country",
-	"A River"
+	"A Mountain"
 	],
 "correctAnswer":3,
 "hints":[
