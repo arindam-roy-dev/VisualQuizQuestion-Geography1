@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is capital of Zimbabwe?",
+"answers":[
+	"Addis Ababa",
+	"Nairobi",
+	"Harare",
+	"Kinshasa"
+	],
+"correctAnswer":3,
+"hints":[
+	"Addis Ababa is the capital city of Ethiopia",
+	"Nairobi the capital city of Kenya",
+	"Kinshasa the capital city of Congo"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Harare is the capital and most populous city of Zimbabwe. The city proper has an area of 960.6 km2 (371 mi2) and an estimated population of 1,606,000 in 2009, with 2,800,000 in its metropolitan area in 2006. Situated in north-eastern Zimbabwe in the country\'s Mashonaland region, Harare is a metropolitan province, which also incorporates the municipalities of Chitungwiza and Epworth.\nThe city was founded in 1890 by the Pioneer Column, a small military force of the British South Africa Company, and named Fort Salisbury after the UK Prime Minister Lord Salisbury. Company administrators demarcated the city and ran it until Southern Rhodesia achieved responsible government in 1923.\nSalisbury was thereafter the seat of the Southern Rhodesian (later Rhodesian) government and, between 1953 and 1963, the capital of the Central African Federation. It retained the name Salisbury until 1982, when it was renamed Harare on the second anniversary of Zimbabwean independence from the United Kingdom.\nThe city sits on one of the higher parts of the Highveld plateau of Zimbabwe at an elevation of 1,483 metres (4,865 feet). The original landscape could be described as a \"parkland\".\nThe average annual temperature is 17.95 °C (64.3 °F), rather low for the tropics. This is due to its high altitude position and the prevalence of a cool south-easterly airflow.\nHarare is Zimbabwe\'s leading financial, commercial, and communications centre, as well as an international trade centre for tobacco, maize, cotton, and citrus fruits. Manufacturing, including textiles, steel, and chemicals, are also economically significant, as is the trade of precious minerals such as gold, diamonds, chrome and platinum.\nIt has also experienced a real estate boom recently, particularly in the wealthy Northern suburbs, with prices rising dramatically over the last decade, despite challenges in other sectors of the economy. This boom has largely been fueled by members of the Zimbabwean diaspora and speculation, with investors hedging against the local currency. However the once booming market has begun to cool off due to a 2019 hike in interest rates and the economic fallout from the COVID-19 pandemic, leaving a number of projects unfinished.\nWhile it may have seemed the economy was finally making a recovery, early investor optimism following the inauguration of the Mnangagwa government has largely subsided due to the slow pace of reforms to improve the business environment. The economy suffered high inflation and frequent power outages in 2019, which further hampered investment.\nA lack of implementation of adequate monetary reforms to complement the governments efforts to reduce the budget deficit also undermined investor confidence in the financial sector. Although the government has repeatedly stressed its focus on improving transparency, the ease of doing business, and fighting corruption, progress remains limited under the Mnagagwa administration."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is longest river of Australia?",
+"answers":[
+	"Murrumbidgee River",
+	"Murray River",
+	"Lachlan River",
+	"Darling River"
+	],
+"correctAnswer":2,
+"hints":[
+	"Located in southeastern Australia",
+	"It rises in the Australian Alps",
+	"its tributaries include five of the next six longest rivers of Australia like Murrumbidgee, Darling etc."
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Murray River is a river in southeastern Australia. It is Australia\'s longest river at 2,508 km (1,558 mi) in length, and its tributaries include five of the next six longest rivers of Australia (the Murrumbidgee, Darling, Lachlan, Warrego and Paroo Rivers), whose catchment area together form the Murray-Darling basin.\nThe Murray River rises in the Australian Alps, draining the western side of Australia\'s highest mountains, and then meanders northwestly across Australia\'s inland plains, forming the border between the states of New South Wales and Victoria as it flows into South Australia. It turns south at Morgan for its final 315 km (196 mi), reaching the eastern edge of Lake Alexandrina, which fluctuates in salinity (and were often fresh until recent decades).\nThe water of the Murray then flows through several channels around the Hindmarsh and Mundoo Island, joined by lagoon water from The Coorong from the southeast, before emptying into the Great Australian Bight (often referenced on Australian maps as the Southern Ocean) through the Murray Mouth 10 km (6.2 mi) east of Goolwa South.\nDespite discharging considerable volumes of water at times, particularly before the advent of large-scale river regulation, the Murray Mouth has always been comparatively small and shallow.\nAs of 2010, the Murray River system receives 58 percent of its natural flow. It is perhaps Australia\'s most important irrigated region, and is widely known as the food bowl of the nation.\nThe Murray River (and associated tributaries) support a variety of river life adapted to its vagaries. This includes a variety of native fish such as the famous Murray cod, trout cod, golden perch, Macquarie perch, silver perch, eel-tailed catfish, Australian smelt, and western carp gudgeon, and other aquatic species like the Murray short-necked turtle, Murray River crayfish, broad-clawed yabbies, and the large clawed Macrobrachium shrimp, as well as aquatic species more widely distributed through southeastern Australia such as common longnecked turtles, common yabbies, the small claw-less paratya shrimp, water rats, and platypus. The Murray River also supports fringing corridors and forests of the river red gum.\nhe health of the Murray River has declined significantly since European settlement, particularly due to river regulation, and much of its aquatic life including native fish are now declining, rare or endangered. Recent extreme droughts (2000–07) have put significant stress on river red gum forests, with mounting concern over their long-term survival."
+}
